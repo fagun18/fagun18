@@ -328,11 +328,11 @@
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://drive.google.com/file/d/16fRx7oWAnTJNmyH1ORFWjw-8Hy-TDNkd/view?usp=sharing" target="_blank">
-          <img src="https://www.cet.np.edu.sg/wp-content/uploads/2020/06/EHPT-CEH-log.jpg" alt="Certified Ethical Hacker" height="200px">
+        <a href="https://www.udemy.com/certificate/UC-e83ced59-0361-403f-9795-195322f6b589/" target="_blank">
+          <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-e83ced59-0361-403f-9795-195322f6b589.jpg?v=1681147205000" alt="Reverse Engineering and Malware Analysis" height="200px">
         </a>
         <br>
-        <a href="https://drive.google.com/file/d/16fRx7oWAnTJNmyH1ORFWjw-8Hy-TDNkd/view?usp=sharing" target="_blank">Certified Ethical Hacker</a>
+        <a href="https://drive.google.com/file/d/16fRx7oWAnTJNmyH1ORFWjw-8Hy-TDNkd/view?usp=sharing" target="_blank">Reverse Engineering and Malware Analysis</a>
       </td>
       <td align="center">
         <a href="https://codered.eccouncil.org/certificate/82b52a1f-99f4-42e6-96ea-08ceedf722c3?logged=true" target="_blank">
