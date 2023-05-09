@@ -286,6 +286,8 @@
 <!-- START_LINKEDIN_POSTS -->
 <!-- END_LINKEDIN_POSTS -->
 
+<script src="https://tryhackme.com/badge/900133"></script>
+
 
 
 ### ✍️ Random Dev Quote
