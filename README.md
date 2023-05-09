@@ -352,6 +352,28 @@
   </tbody>
 </table>
 
+<h3 align="center">Latest Blog Posts</h3>
+
+<p align="center">
+  <a href="https://yourblog.com">yourblog.com</a>
+</p>
+
+<p align="center">
+  <a href="https://yourblog.com/first-post">First Post Title</a> -
+  Published on January 1, 2022
+</p>
+
+<p align="center">
+  <a href="https://yourblog.com/second-post">Second Post Title</a> -
+  Published on February 1, 2022
+</p>
+
+<p align="center">
+  <a href="https://yourblog.com/third-post">Third Post Title</a> -
+  Published on March 1, 2022
+</p>
+
+
 
 
 ---
