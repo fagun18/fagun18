@@ -332,21 +332,21 @@
           <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-e83ced59-0361-403f-9795-195322f6b589.jpg?v=1681147205000" alt="Reverse Engineering and Malware Analysis" height="200px">
         </a>
         <br>
-        <a href="https://drive.google.com/file/d/16fRx7oWAnTJNmyH1ORFWjw-8Hy-TDNkd/view?usp=sharing" target="_blank">Reverse Engineering and Malware Analysis</a>
+        <a href="https://www.udemy.com/certificate/UC-e83ced59-0361-403f-9795-195322f6b589/" target="_blank">Reverse Engineering and Malware Analysis</a>
       </td>
       <td align="center">
-        <a href="https://codered.eccouncil.org/certificate/82b52a1f-99f4-42e6-96ea-08ceedf722c3?logged=true" target="_blank">
-          <img src="https://eccommonstorage.blob.core.windows.net/codered/certificates/82b52a1f-99f4-42e6-96ea-08ceedf722c3.png" alt="Selenium Automation Testing" height="200px">
+        <a href="https://www.udemy.com/certificate/UC-6d56d3d0-b86d-45f1-adae-a57ef07e34dd/" target="_blank">
+          <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-6d56d3d0-b86d-45f1-adae-a57ef07e34dd.jpg?v=1664986147000" alt="Kali Linux" height="200px">
         </a>
         <br>
-        <a href="https://codered.eccouncil.org/certificate/82b52a1f-99f4-42e6-96ea-08ceedf722c3?logged=true" target="_blank">Selenium Automation Testing</a>
+        <a href="https://www.udemy.com/certificate/UC-6d56d3d0-b86d-45f1-adae-a57ef07e34dd/" target="_blank">Kali Linux</a>
       </td>
       <td align="center">
-        <a href="https://codered.eccouncil.org/certificate/5ae43800-f56c-4d26-a037-4b99c09f9793?logged=true" target="_blank">
-          <img src="https://eccommonstorage.blob.core.windows.net/codered/certificates/5ae43800-f56c-4d26-a037-4b99c09f9793.png" alt="Cybersecurity for Businesses" height="200px">
+        <a href="https://codered.eccouncil.org/certificate/c798a98b-234f-4977-b977-d09eaaa7682f?logged=true" target="_blank">
+          <img src="https://blogs.zeiss.com/digital-innovation/de/wp-content/uploads/sites/2/2020/05/201909_Security_SQL-Injection_1.png" alt="SQL Injection" height="200px">
         </a>
         <br>
-        <a href="https://codered.eccouncil.org/certificate/5ae43800-f56c-4d26-a037-4b99c09f9793?logged=true" target="_blank">Cybersecurity for Businesses</a>
+        <a href="https://codered.eccouncil.org/certificate/c798a98b-234f-4977-b977-d09eaaa7682f?logged=true" target="_blank">SQL Injection</a>
       </td>
     </tr>
   </tbody>
