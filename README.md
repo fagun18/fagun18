@@ -366,15 +366,15 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://example.com/article1">
-          <img src="https://example.com/article1/feature-image.jpg" alt="Article 1 Feature Image" width="100"/>
+        <a href="https://www.linkedin.com/pulse/unravelling-mystery-cv-vs-resume-which-one-right-you-fagun/">
+          <img src="https://media.licdn.com/dms/image/D5612AQEgL-HB1hVw2g/article-cover_image-shrink_423_752/0/1675872685009?e=1689206400&v=beta&t=g7k33LfyRwxSQ20cccz45xTTyCszWh7xXrJz00HUr_0" alt="Article 1 Feature Image" width="100"/>
           <br/>
           Article 1
         </a>
       </td>
-      <td>Description of Article 1 goes here</td>
+      <td>Unravelling the Mystery: CV vs Resume</td>
       <td>May 1, 2023</td>
-      <td><a href="https://example.com/article1">Read</a></td>
+      <td><a href="https://www.linkedin.com/pulse/unravelling-mystery-cv-vs-resume-which-one-right-you-fagun/">Read</a></td>
     </tr>
     <tr>
       <td>
