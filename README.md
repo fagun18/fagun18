@@ -366,13 +366,13 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://example.com/article1">
-          <img src="https://example.com/article1/feature-image.jpg" alt="Article 1 Feature Image" width="100"/>
+        <a href="https://www.linkedin.com/pulse/c-d-mejbaur-bahar-fagun/">
+          <img src="https://media.licdn.com/dms/image/D5612AQFzwRlHcJHQFw/article-cover_image-shrink_423_752/0/1673711368288?e=1689206400&v=beta&t=opeQfkzPYsS2zwd4Y6dta9Pz7mXhjIadrQwvdF4W0SQ" alt="Article 1 Feature Image" width="100"/>
           <br/>
           Article 1
         </a>
       </td>
-      <td>Description of Article 1 goes here</td>
+      <td>C𝐨𝐦𝐦𝐨𝐧 D𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐬 for 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐐𝐀 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫</td>
       <td>May 1, 2023</td>
       <td><a href="https://example.com/article1">Read</a></td>
     </tr>
