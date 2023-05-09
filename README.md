@@ -304,7 +304,7 @@
     <tr>
       <td align="center">
         <a href="https://drive.google.com/file/d/16fRx7oWAnTJNmyH1ORFWjw-8Hy-TDNkd/view?usp=sharing" target="_blank">
-          <img src="https://i.imgur.com/AAcX9Y1.png" alt="Certified Ethical Hacker" height="200px">
+          <img src="[https://i.imgur.com/AAcX9Y1.png](https://www.cet.np.edu.sg/wp-content/uploads/2020/06/EHPT-CEH-log.jpg)" alt="Certified Ethical Hacker" height="200px">
         </a>
         <br>
         <a href="https://drive.google.com/file/d/16fRx7oWAnTJNmyH1ORFWjw-8Hy-TDNkd/view?usp=sharing" target="_blank">Certified Ethical Hacker</a>
