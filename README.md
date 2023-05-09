@@ -366,39 +366,39 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://www.linkedin.com/pulse/c-d-mejbaur-bahar-fagun/">
-          <img src="https://media.licdn.com/dms/image/D5612AQFzwRlHcJHQFw/article-cover_image-shrink_423_752/0/1673711368288?e=1689206400&v=beta&t=opeQfkzPYsS2zwd4Y6dta9Pz7mXhjIadrQwvdF4W0SQ" alt="Article 1 Feature Image" width="100"/>
+        <a href="https://example.com/article1">
+          <img src="https://example.com/article1/feature-image.jpg" alt="Article 1 Feature Image" width="100"/>
           <br/>
-        
+          Article 1
         </a>
       </td>
-      <td>C𝐨𝐦𝐦𝐨𝐧 D𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐬 for 𝐬𝐨𝐟𝐭𝐰𝐚𝐫𝐞 𝐐𝐀 𝐞𝐧𝐠𝐢𝐧𝐞𝐞𝐫</td>
+      <td>Description of Article 1 goes here</td>
       <td>May 1, 2023</td>
-      <td><a href="https://www.linkedin.com/pulse/c-d-mejbaur-bahar-fagun/">Read</a></td>
+      <td><a href="https://example.com/article1">Read</a></td>
     </tr>
     <tr>
       <td>
-        <a href="https://www.linkedin.com/pulse/full-stack-software-quality-assurance-engineer-role-fagun/">
-          <img src="https://media.licdn.com/dms/image/D5612AQHcfTeCkbf89Q/article-cover_image-shrink_423_752/0/1680885917031?e=1689206400&v=beta&t=kqae1RR9jNTwMY9XHklAyYZNX6wLz2Mwa3LhAMvY4WA" alt="Article 2 Feature Image" width="100"/>
+        <a href="https://example.com/article2">
+          <img src="https://example.com/article2/feature-image.jpg" alt="Article 2 Feature Image" width="100"/>
           <br/>
           Article 2
         </a>
       </td>
-      <td>Full Stack Software Quality Assurance Engineer</td>
+      <td>Description of Article 2 goes here</td>
       <td>April 15, 2023</td>
-      <td><a href="https://www.linkedin.com/pulse/full-stack-software-quality-assurance-engineer-role-fagun/">Read</a></td>
+      <td><a href="https://example.com/article2">Read</a></td>
     </tr>
     <tr>
       <td>
-        <a href="https://www.linkedin.com/pulse/unravelling-mystery-cv-vs-resume-which-one-right-you-fagun/">
-          <img src="https://media.licdn.com/dms/image/D5612AQHcfTeCkbf89Q/article-cover_image-shrink_423_752/0/1680885917031?e=1689206400&v=beta&t=kqae1RR9jNTwMY9XHklAyYZNX6wLz2Mwa3LhAMvY4WA" alt="Article 3 Feature Image" width="100"/>
+        <a href="https://example.com/article3">
+          <img src="https://example.com/article3/feature-image.jpg" alt="Article 3 Feature Image" width="100"/>
           <br/>
           Article 3
         </a>
       </td>
-      <td>Unravelling the Mystery: CV vs Resume</td>
+      <td>Description of Article 3 goes here</td>
       <td>March 28, 2023</td>
-      <td><a href="https://www.linkedin.com/pulse/unravelling-mystery-cv-vs-resume-which-one-right-you-fagun/">Read</a></td>
+      <td><a href="https://example.com/article3">Read</a></td>
     </tr>
   </tbody>
 </table>
