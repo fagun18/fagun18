@@ -311,14 +311,14 @@
       </td>
       <td align="center">
         <a href="https://codered.eccouncil.org/certificate/82b52a1f-99f4-42e6-96ea-08ceedf722c3?logged=true" target="_blank">
-          <img src="https://i.imgur.com/Wz0XyzF.png" alt="Selenium Automation Testing" height="200px">
+          <img src="https://eccommonstorage.blob.core.windows.net/codered/certificates/82b52a1f-99f4-42e6-96ea-08ceedf722c3.png" alt="Selenium Automation Testing" height="200px">
         </a>
         <br>
         <a href="https://codered.eccouncil.org/certificate/82b52a1f-99f4-42e6-96ea-08ceedf722c3?logged=true" target="_blank">Selenium Automation Testing</a>
       </td>
       <td align="center">
         <a href="https://codered.eccouncil.org/certificate/5ae43800-f56c-4d26-a037-4b99c09f9793?logged=true" target="_blank">
-          <img src="https://i.imgur.com/1RKGxuM.png" alt="Cybersecurity for Businesses" height="200px">
+          <img src="https://eccommonstorage.blob.core.windows.net/codered/certificates/5ae43800-f56c-4d26-a037-4b99c09f9793.png" alt="Cybersecurity for Businesses" height="200px">
         </a>
         <br>
         <a href="https://codered.eccouncil.org/certificate/5ae43800-f56c-4d26-a037-4b99c09f9793?logged=true" target="_blank">Cybersecurity for Businesses</a>
