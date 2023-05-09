@@ -281,7 +281,7 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=fagun018)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 ## 📝 Latest Facebook Post
-[![](https://graph.facebook.com/mbf018/picture?height=100)](https://www.facebook.com/mbf018/)
+[![](https://graph.facebook.com/mbfagun/picture?height=100)](https://www.facebook.com/mbfagun/)
 <!-- START_FACEBOOK_POSTS -->
 <!-- END_FACEBOOK_POSTS -->
 
