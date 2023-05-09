@@ -326,6 +326,32 @@
     </tr>
   </tbody>
 </table>
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/16fRx7oWAnTJNmyH1ORFWjw-8Hy-TDNkd/view?usp=sharing" target="_blank">
+          <img src="https://www.cet.np.edu.sg/wp-content/uploads/2020/06/EHPT-CEH-log.jpg" alt="Certified Ethical Hacker" height="200px">
+        </a>
+        <br>
+        <a href="https://drive.google.com/file/d/16fRx7oWAnTJNmyH1ORFWjw-8Hy-TDNkd/view?usp=sharing" target="_blank">Certified Ethical Hacker</a>
+      </td>
+      <td align="center">
+        <a href="https://codered.eccouncil.org/certificate/82b52a1f-99f4-42e6-96ea-08ceedf722c3?logged=true" target="_blank">
+          <img src="https://eccommonstorage.blob.core.windows.net/codered/certificates/82b52a1f-99f4-42e6-96ea-08ceedf722c3.png" alt="Selenium Automation Testing" height="200px">
+        </a>
+        <br>
+        <a href="https://codered.eccouncil.org/certificate/82b52a1f-99f4-42e6-96ea-08ceedf722c3?logged=true" target="_blank">Selenium Automation Testing</a>
+      </td>
+      <td align="center">
+        <a href="https://codered.eccouncil.org/certificate/5ae43800-f56c-4d26-a037-4b99c09f9793?logged=true" target="_blank">
+          <img src="https://eccommonstorage.blob.core.windows.net/codered/certificates/5ae43800-f56c-4d26-a037-4b99c09f9793.png" alt="Cybersecurity for Businesses" height="200px">
+        </a>
+        <br>
+        <a href="https://codered.eccouncil.org/certificate/5ae43800-f56c-4d26-a037-4b99c09f9793?logged=true" target="_blank">Cybersecurity for Businesses</a>
+      </td>
+    </tr>
+  </tbody>
 
 
 ---
