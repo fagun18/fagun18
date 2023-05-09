@@ -297,7 +297,28 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fagun18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+### Certificates
 
+- Certificate 1
+  <br>
+  <a href="https://certificates.example.com/certificate1">
+    <img src="https://certificates.example.com/certificate1/image" alt="Certificate 1">
+  </a>
+  <br>
+
+- Certificate 2
+  <br>
+  <a href="https://certificates.example.com/certificate2">
+    <img src="https://certificates.example.com/certificate2/image" alt="Certificate 2">
+  </a>
+  <br>
+
+- Certificate 3
+  <br>
+  <a href="https://certificates.example.com/certificate3">
+    <img src="https://certificates.example.com/certificate3/image" alt="Certificate 3">
+  </a>
+  <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fagun18&icon=5&color=0)](https://visitcount.itsvg.in)
