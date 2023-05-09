@@ -216,13 +216,27 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="https://dev.to/example" target="_blank">
-      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
+    <a  href="[https://twitter.com/YourTwitterHandle"](https://twitter.com/fagun018) target="_blank">
+      <img src="https://img.shields.io/twitter/follow/YourTwitterHandle?style=for-the-badge&logo=twitter&labelColor=1DA1F2&logoColor=white&label=Twitter" alt="Twitter"/>
     </a>
-    <a href="https://medium.com/@example" target="_blank">
-      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
+    <a href="[https://www.facebook.com/YourProfileName](https://www.facebook.com/mbfagun)" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-Profile-blue?style=for-the-badge&logo=facebook&labelColor=blue&label=Facebook" alt="Facebook Profile"/>
     </a>
-    <a href="https://codepen.io/Fgaun" target="_blank">
+    <a href="[https://www.facebook.com/YourPageName](https://www.facebook.com/mbf018)" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-Page-blue?style=for-the-badge&logo=facebook&labelColor=blue&label=Facebook%20Page" alt="Facebook Page"/>
+    </a>
+    <a href="[https://medium.com/@YourProfileName](https://fagun18.medium.com/)" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-Profile-black?style=for-the-badge&logo=medium&labelColor=black&label=Medium" alt="Medium"/>
+    </a>
+  </div>
+  <div>
+    <a  href="[https://hashnode.com/@YourProfileName](https://fagun.hashnode.dev/)" target="_blank">
+      <img src="https://img.shields.io/badge/Hashnode-Profile-green?style=for-the-badge&logo=hashnode&labelColor=green&label=Hashnode" alt="Hashnode"/>
+    </a>
+    <a href="[https://tryhackme.com/p/YourProfileName](https://tryhackme.com/p/princeti)" target="_blank">
+      <img src="https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&labelColor=red&label=TryHackMe" alt="TryHackMe"/>
+    </a>
+        <a href="https://codepen.io/Fgaun" target="_blank">
       <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/>
     </a>
   </div>
@@ -230,25 +244,17 @@
     <a  href="https://linkedin.com/in/mejbaur" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
-    <a href="https://facebook.com/mbfagun" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-<brightgreen>" alt="example"/>
-    </a>
-    <a href="https://dribbble.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black" alt="example"/>
-    </a>
   </div>
+      <a href="[https://www.instagram.com/example/](https://www.instagram.com/fagun018/)" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="example"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCkF8d0fgMfNga7JvQjWQV8w" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="example"/>
+    </a>
   <div>
-    <a  href="https://www.codechef.com/users/example" target="_blank">
-      <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://www.hackerrank.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
-    </a>
-    <a href="https://www.leetcode.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
-    </a>
   </div>
 </div>
+
 
 <h3 align="center">Reach me</h3>
 
@@ -281,13 +287,7 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=fagun018)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-[![GitHub Follow](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)](https://github.com/YourGitHubUsername)
-[![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-blue?style=social&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/YourLinkedInUsername/)
-[![Facebook Profile](https://img.shields.io/badge/Facebook-Profile-blue?style=social&logo=facebook&labelColor=blue)](https://www.facebook.com/YourProfileName)
-[![Facebook Page](https://img.shields.io/badge/Facebook-Page-blue?style=social&logo=facebook&labelColor=blue)](https://www.facebook.com/YourPageName)
-[![Medium](https://img.shields.io/badge/Medium-Profile-black?style=social&logo=medium&labelColor=black)](https://medium.com/@YourProfileName)
-[![Hashnode](https://img.shields.io/badge/Hashnode-Profile-green?style=social&logo=hashnode&labelColor=green)](https://hashnode.com/@YourProfileName)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=social&logo=tryhackme&labelColor=red)](https://tryhackme.com/p/YourProfileName)
+
 
 
 
