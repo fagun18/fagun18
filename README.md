@@ -299,10 +299,10 @@
 
 ### Certificates
 
-- Certificate 1
+- Certified Ethical Hacker
   <br>
-  <a href="https://certificates.example.com/certificate1">
-    <img src="https://certificates.example.com/certificate1/image" alt="Certificate 1">
+  <a href="[https://certificates.example.com/certificate1](https://drive.google.com/file/d/16fRx7oWAnTJNmyH1ORFWjw-8Hy-TDNkd/view?usp=sharing)">
+    <img src="[https://certificates.example.com/certificate1/image](https://drive.google.com/file/d/16fRx7oWAnTJNmyH1ORFWjw-8Hy-TDNkd/view?usp=sharing)" alt="Certificate 1">
   </a>
   <br>
 
