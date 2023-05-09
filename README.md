@@ -352,31 +352,57 @@
   </tbody>
 </table>
 
-<h3 align="center">Latest Articles</h3>
+<h3 align="center">My Articles</h3>
 
-<p align="center">
-  <a href="https://example.com/article1">
-    <img src="https://example.com/article1/feature-image.jpg" alt="Article 1 feature image" width="300" height="150">
-  </a>
-  <br>
-  <a href="https://example.com/article1">Article 1 Title</a>
-</p>
+<table>
+  <thead>
+    <tr>
+      <th>Article</th>
+      <th>Description</th>
+      <th>Published Date</th>
+      <th>Read</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://example.com/article1">
+          <img src="https://example.com/article1/feature-image.jpg" alt="Article 1 Feature Image" width="100"/>
+          <br/>
+          Article 1
+        </a>
+      </td>
+      <td>Description of Article 1 goes here</td>
+      <td>May 1, 2023</td>
+      <td><a href="https://example.com/article1">Read</a></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://example.com/article2">
+          <img src="https://example.com/article2/feature-image.jpg" alt="Article 2 Feature Image" width="100"/>
+          <br/>
+          Article 2
+        </a>
+      </td>
+      <td>Description of Article 2 goes here</td>
+      <td>April 15, 2023</td>
+      <td><a href="https://example.com/article2">Read</a></td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://example.com/article3">
+          <img src="https://example.com/article3/feature-image.jpg" alt="Article 3 Feature Image" width="100"/>
+          <br/>
+          Article 3
+        </a>
+      </td>
+      <td>Description of Article 3 goes here</td>
+      <td>March 28, 2023</td>
+      <td><a href="https://example.com/article3">Read</a></td>
+    </tr>
+  </tbody>
+</table>
 
-<p align="center">
-  <a href="https://example.com/article2">
-    <img src="https://example.com/article2/feature-image.jpg" alt="Article 2 feature image" width="300" height="150">
-  </a>
-  <br>
-  <a href="https://example.com/article2">Article 2 Title</a>
-</p>
-
-<p align="center">
-  <a href="https://example.com/article3">
-    <img src="https://example.com/article3/feature-image.jpg" alt="Article 3 feature image" width="300" height="150">
-  </a>
-  <br>
-  <a href="https://example.com/article3">Article 3 Title</a>
-</p>
 
 
 ---
