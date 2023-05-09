@@ -352,28 +352,31 @@
   </tbody>
 </table>
 
-<h3 align="center">Latest Blog Posts</h3>
+<h3 align="center">Latest Articles</h3>
 
 <p align="center">
-  <a href="https://yourblog.com">yourblog.com</a>
+  <a href="https://example.com/article1">
+    <img src="https://example.com/article1/feature-image.jpg" alt="Article 1 feature image" width="300" height="150">
+  </a>
+  <br>
+  <a href="https://example.com/article1">Article 1 Title</a>
 </p>
 
 <p align="center">
-  <a href="https://yourblog.com/first-post">First Post Title</a> -
-  Published on January 1, 2022
+  <a href="https://example.com/article2">
+    <img src="https://example.com/article2/feature-image.jpg" alt="Article 2 feature image" width="300" height="150">
+  </a>
+  <br>
+  <a href="https://example.com/article2">Article 2 Title</a>
 </p>
 
 <p align="center">
-  <a href="https://yourblog.com/second-post">Second Post Title</a> -
-  Published on February 1, 2022
+  <a href="https://example.com/article3">
+    <img src="https://example.com/article3/feature-image.jpg" alt="Article 3 feature image" width="300" height="150">
+  </a>
+  <br>
+  <a href="https://example.com/article3">Article 3 Title</a>
 </p>
-
-<p align="center">
-  <a href="https://yourblog.com/third-post">Third Post Title</a> -
-  Published on March 1, 2022
-</p>
-
-
 
 
 ---
