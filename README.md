@@ -280,10 +280,12 @@
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=fagun018)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-## 📝 Latest Facebook Post
-[![](https://graph.facebook.com/mbfagun/picture?height=100)](https://www.facebook.com/mbfagun/)
-<!-- START_FACEBOOK_POSTS -->
-<!-- END_FACEBOOK_POSTS -->
+
+## 📝 Latest LinkedIn Post
+[![](https://media-exp1.licdn.com/dms/image/C5603AQG8WCC21M80vg/profile-displayphoto-shrink_100_100/0/1616672586709?e=1638403200&v=beta&t=JMctUdJ6yQ2vJ8TcS9-S9nvwzG51ZnKUhZzHH4B3SLY)](https://www.linkedin.com/in/mejbaur/)
+<!-- START_LINKEDIN_POSTS -->
+<!-- END_LINKEDIN_POSTS -->
+
 
 
 ### ✍️ Random Dev Quote
