@@ -281,12 +281,13 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=fagun018)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-## 📝 Latest LinkedIn Post
-[![](https://media-exp1.licdn.com/dms/image/C5603AQG8WCC21M80vg/profile-displayphoto-shrink_100_100/0/1616672586709?e=1638403200&v=beta&t=JMctUdJ6yQ2vJ8TcS9-S9nvwzG51ZnKUhZzHH4B3SLY)](https://www.linkedin.com/in/mejbaur/)
-<!-- START_LINKEDIN_POSTS -->
-<!-- END_LINKEDIN_POSTS -->
-
-<script src="https://tryhackme.com/badge/900133"></script>
+[![GitHub Follow](https://img.shields.io/github/followers/YourGitHubUsername?label=Follow&style=social)](https://github.com/YourGitHubUsername)
+[![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-blue?style=social&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/YourLinkedInUsername/)
+[![Facebook Profile](https://img.shields.io/badge/Facebook-Profile-blue?style=social&logo=facebook&labelColor=blue)](https://www.facebook.com/YourProfileName)
+[![Facebook Page](https://img.shields.io/badge/Facebook-Page-blue?style=social&logo=facebook&labelColor=blue)](https://www.facebook.com/YourPageName)
+[![Medium](https://img.shields.io/badge/Medium-Profile-black?style=social&logo=medium&labelColor=black)](https://medium.com/@YourProfileName)
+[![Hashnode](https://img.shields.io/badge/Hashnode-Profile-green?style=social&logo=hashnode&labelColor=green)](https://hashnode.com/@YourProfileName)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=social&logo=tryhackme&labelColor=red)](https://tryhackme.com/p/YourProfileName)
 
 
 
