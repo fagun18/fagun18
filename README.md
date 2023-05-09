@@ -297,28 +297,36 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fagun18&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### Certificates
+<h3 align="center">My Certifications</h3>
 
-- Certified Ethical Hacker
-  <br>
-  <a href="https://drive.google.com/file/d/16fRx7oWAnTJNmyH1ORFWjw-8Hy-TDNkd/view?usp=sharing">
-    <img src="https://drive.google.com/file/d/16fRx7oWAnTJNmyH1ORFWjw-8Hy-TDNkd/view?usp=sharing" alt="Certificate 1">
-  </a>
-  <br>
+<table align="center">
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://drive.google.com/file/d/16fRx7oWAnTJNmyH1ORFWjw-8Hy-TDNkd/view?usp=sharing" target="_blank">
+          <img src="https://i.imgur.com/AAcX9Y1.png" alt="Certified Ethical Hacker" height="200px">
+        </a>
+        <br>
+        <a href="https://drive.google.com/file/d/16fRx7oWAnTJNmyH1ORFWjw-8Hy-TDNkd/view?usp=sharing" target="_blank">Certified Ethical Hacker</a>
+      </td>
+      <td align="center">
+        <a href="https://codered.eccouncil.org/certificate/82b52a1f-99f4-42e6-96ea-08ceedf722c3?logged=true" target="_blank">
+          <img src="https://i.imgur.com/Wz0XyzF.png" alt="Selenium Automation Testing" height="200px">
+        </a>
+        <br>
+        <a href="https://codered.eccouncil.org/certificate/82b52a1f-99f4-42e6-96ea-08ceedf722c3?logged=true" target="_blank">Selenium Automation Testing</a>
+      </td>
+      <td align="center">
+        <a href="https://codered.eccouncil.org/certificate/5ae43800-f56c-4d26-a037-4b99c09f9793?logged=true" target="_blank">
+          <img src="https://i.imgur.com/1RKGxuM.png" alt="Cybersecurity for Businesses" height="200px">
+        </a>
+        <br>
+        <a href="https://codered.eccouncil.org/certificate/5ae43800-f56c-4d26-a037-4b99c09f9793?logged=true" target="_blank">Cybersecurity for Businesses</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- Certificate 2
-  <br>
-  <a href="https://certificates.example.com/certificate2">
-    <img src="https://certificates.example.com/certificate2/image" alt="Certificate 2">
-  </a>
-  <br>
-
-- Certificate 3
-  <br>
-  <a href="https://certificates.example.com/certificate3">
-    <img src="https://certificates.example.com/certificate3/image" alt="Certificate 3">
-  </a>
-  <br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fagun18&icon=5&color=0)](https://visitcount.itsvg.in)
