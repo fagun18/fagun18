@@ -290,9 +290,11 @@
 
 <div align="center">
   <h2>🕴️ Latest LinkedIn Post</h2>
+  <a href="(https://www.linkedin.com/posts/mejbaur_pentesting-security-wifi-activity-7062284899029823489-lkm_?utm_source=share&utm_medium=member_desktop)">
+    <img src="https://media.licdn.com/dms/image/D5612AQGzw7wHD7B2ow/article-cover_image-shrink_600_2000/0/1683779514096?e=1689206400&v=beta&t=qNOa0u2FL9hrbWw03w6F8AyltM8Vtr1HXT6M3zvIJbE" alt="Latest LinkedIn post" width="500">
+  </a>
   <blockquote class="linkedin-card">
-    <a href="https://www.linkedin.com/posts/mejbaur_pentesting-security-wifi-activity-7062284899029823489-lkm_?utm_source=share&utm_medium=member_desktop">🔰 WiFi Pentesting 🔰</a>
-    <p>Free Resources for WiFi Security - WiFi Pentesting </p>
+    <p>🔰 Free Resources for WiFi Security - WiFi Pentesting 🔰</p>
   </blockquote>
 </div>
 
