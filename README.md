@@ -290,6 +290,13 @@
 
 <div align="center">
   <h2>🕴️ Latest LinkedIn Post</h2>
+  <a href="https://www.linkedin.com/feed/update/urn:li:activity:7062470181767315456/">
+    <img src="https://media.licdn.com/dms/image/D5622AQGeAUaUi9BR9w/feedshare-shrink_800/0/1683824104000?e=1686787200&v=beta&t=v46ORFHDGatkb4hS7QVEtz30Knthz-7GEF5TuY4EA5o" alt="Latest LinkedIn post" width="500">
+  </a>
+  <blockquote class="linkedin-card">
+    <p>🔰 Top 18 Websites to Practice Pen-Testing and Improve Your Hacking Skills🔰</p>
+  </blockquote>
+  
   <a href="(https://www.linkedin.com/posts/mejbaur_pentesting-security-wifi-activity-7062284899029823489-lkm_?utm_source=share&utm_medium=member_desktop)">
     <img src="https://media.licdn.com/dms/image/D5612AQGzw7wHD7B2ow/article-cover_image-shrink_600_2000/0/1683779514096?e=1689206400&v=beta&t=qNOa0u2FL9hrbWw03w6F8AyltM8Vtr1HXT6M3zvIJbE" alt="Latest LinkedIn post" width="500">
   </a>
