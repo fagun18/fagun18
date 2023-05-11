@@ -287,15 +287,15 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=fagun018)](https://twitter.com/fagun018)
 
-🕴️ Latest LinkedIn Post
-[![](https://gtce.itsvg.in/api/linkedin?username=mejbaur)](https://www.linkedin.com/in/mejbaur/)
 
 <div align="center">
   <h2>🕴️ Latest LinkedIn Post</h2>
-  <a href="https://www.linkedin.com/in/mejbaur/">
-    <img src="https://gtce.itsvg.in/api/linkedin?username=mejbaur" alt="Latest LinkedIn post">
-  </a>
+  <blockquote class="linkedin-card">
+    <a href="https://www.linkedin.com/posts/mejbaur_pentesting-security-wifi-activity-7062284899029823489-lkm_?utm_source=share&utm_medium=member_desktop">🔰 WiFi Pentesting 🔰</a>
+    <p>Free Resources for WiFi Security - WiFi Pentesting </p>
+  </blockquote>
 </div>
+
 
 
 📘 Latest Facebook Post
