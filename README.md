@@ -285,7 +285,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=fagun18&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=fagun018)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+[![](https://gtce.itsvg.in/api?username=fagun018)](https://twitter.com/fagun018)
+
 
 
 
