@@ -287,9 +287,11 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=fagun018)](https://twitter.com/fagun018)
 
+🕴️ Latest LinkedIn Post
+[![](https://gtce.itsvg.in/api/linkedin?username=mejbaur)](https://www.linkedin.com/in/https://www.linkedin.com/in/mejbaur/)
 
-
-
+📘 Latest Facebook Post
+[![](https://gtce.itsvg.in/api/facebook?username=mbfagun)](https://www.facebook.com/mbfagun/)
 
 
 ### ✍️ Random Dev Quote
