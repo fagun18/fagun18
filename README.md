@@ -306,12 +306,9 @@
 </div>
 
 
-
 <div align="center">
   <h2>📘 Latest Facebook Post</h2>
-  <div class="fb-post" data-href="https://www.facebook.com/YOUR_FACEBOOK_POST_URL/" data-width="500"></div>
-  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0" nonce="NONCE"></script>
-</div>
+  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmbf018%2Fposts%2Fpfbid0axeLUGNAbe1ta4kKZVC5opbEJjn5AaFsphsSZpPm7SCuRcJExydjsRyPR2hembfel&show_text=true&width=500" width="500" height="590" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
 
 
 
