@@ -307,8 +307,12 @@
 
 
 
-📘 Latest Facebook Post
-[![](https://gtce.itsvg.in/api/facebook?username=mbfagun)](https://www.facebook.com/mbfagun/)
+<div align="center">
+  <h2>📘 Latest Facebook Post</h2>
+  <div class="fb-post" data-href="https://www.facebook.com/YOUR_FACEBOOK_POST_URL/" data-width="500"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v12.0" nonce="NONCE"></script>
+</div>
+
 
 
 ### ✍️ Random Dev Quote
