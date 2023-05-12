@@ -306,44 +306,115 @@
 </div>
 
 ======================
-
 <div align="center">
-  <h2>🕴️ Latest LinkedIn Posts</h2>
-  <div class="post-grid">
-    <div>
+  <h2>🕴️ Latest LinkedIn Post</h2>
+  
+  <div class="linkedin-post-container">
+    <div class="linkedin-post-slide">
       <a href="https://www.linkedin.com/feed/update/urn:li:activity:7062470181767315456/">
-        <img src="https://media.licdn.com/dms/image/D5622AQGeAUaUi9BR9w/feedshare-shrink_800/0/1683824104000?e=1686787200&v=beta&t=v46ORFHDGatkb4hS7QVEtz30Knthz-7GEF5TuY4EA5o" alt="Latest LinkedIn post">
+        <img src="https://media.licdn.com/dms/image/D5622AQGeAUaUi9BR9w/feedshare-shrink_800/0/1683824104000?e=1686787200&v=beta&t=v46ORFHDGatkb4hS7QVEtz30Knthz-7GEF5TuY4EA5o" alt="Latest LinkedIn post" width="500">
       </a>
       <blockquote class="linkedin-card">
         <p>🔰 Top 18 Websites to Practice Pen-Testing and Improve Your Hacking Skills🔰</p>
       </blockquote>
     </div>
-    <div>
+  
+    <div class="linkedin-post-slide">
       <a href="(https://www.linkedin.com/posts/mejbaur_pentesting-security-wifi-activity-7062284899029823489-lkm_?utm_source=share&utm_medium=member_desktop)">
-        <img src="https://media.licdn.com/dms/image/D5612AQGzw7wHD7B2ow/article-cover_image-shrink_600_2000/0/1683779514096?e=1689206400&v=beta&t=qNOa0u2FL9hrbWw03w6F8AyltM8Vtr1HXT6M3zvIJbE" alt="Latest LinkedIn post">
+        <img src="https://media.licdn.com/dms/image/D5612AQGzw7wHD7B2ow/article-cover_image-shrink_600_2000/0/1683779514096?e=1689206400&v=beta&t=qNOa0u2FL9hrbWw03w6F8AyltM8Vtr1HXT6M3zvIJbE" alt="Latest LinkedIn post" width="500">
       </a>
       <blockquote class="linkedin-card">
         <p>🔰 Free Resources for WiFi Security - WiFi Pentesting 🔰</p>
       </blockquote>
     </div>
+    
+    <div>
+      <button class="btn btn-left">&#10094;</button>
+      <button class="btn btn-right">&#10095;</button>
+    </div>
   </div>
 </div>
 
 <style>
-.post-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-  grid-gap: 30px;
-  margin-top: 30px;
-}
-
-.post-grid div {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
+  .linkedin-post-container {
+    position: relative;
+    width: 500px;
+    height: 590px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  
+  .linkedin-post-slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 500px;
+    height: 590px;
+    display: none;
+  }
+  
+  .linkedin-post-slide:first-child {
+    display: block;
+  }
+  
+  .btn {
+    position: absolute;
+    top: 50%;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 16px;
+    margin-top: -22px;
+    border: none;
+    background-color: white;
+    color: #1d1d1d;
+    cursor: pointer;
+    z-index: 2;
+  }
+  
+  .btn-left {
+    left: 0;
+  }
+  
+  .btn-right {
+    right: 0;
+  }
 </style>
+<script>
+  let currentIndex = 0;
+  const linkedinPosts = document.querySelectorAll('.linkedin-post-wrapper');
+  const leftButton = document.querySelector('.btn-left');
+  const rightButton = document.querySelector('.btn-right');
+
+  function showCurrentPost() {
+    linkedinPosts.forEach((post, index) => {
+      if (index === currentIndex) {
+        post.style.display = 'block';
+      } else {
+        post.style.display = 'none';
+      }
+    });
+  }
+
+  function moveToLeft() {
+    currentIndex--;
+    if (currentIndex < 0) {
+      currentIndex = linkedinPosts.length - 1;
+    }
+    showCurrentPost();
+  }
+
+  function moveToRight() {
+    currentIndex++;
+    if (currentIndex >= linkedinPosts.length) {
+      currentIndex = 0;
+    }
+    showCurrentPost();
+  }
+
+  leftButton.addEventListener('click', moveToLeft);
+  rightButton.addEventListener('click', moveToRight);
+  showCurrentPost();
+</script>
 
 ==============
 
