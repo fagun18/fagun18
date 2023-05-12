@@ -403,6 +403,12 @@
 
 <div align="center">
   <h2>🕴️ Latest LinkedIn Post</h2>
+  <a href="https://www.linkedin.com/pulse/10-free-pentest-toolscom-features-effective-website-security-fagun%3FtrackingId=PtiUEVBDRCC6fjCwHphYuQ%253D%253D/?trackingId=PtiUEVBDRCC6fjCwHphYuQ%3D%3D">
+    <img src="https://media.licdn.com/dms/image/D5612AQHvMafLeraR5Q/article-cover_image-shrink_423_752/0/1683869721798?e=1689206400&v=beta&t=KP06-I85YRYMcGGYocDx65Zl-XOAcvFDFQPJBHufxEQ" alt="Latest LinkedIn post" width="500">
+  </a>
+  <blockquote class="linkedin-card">
+    <p>🔰10 Free Pentest-Tools.com Features for Effective Website Security Testing🔰</p>
+  </blockquote>
   <a href="https://www.linkedin.com/feed/update/urn:li:activity:7062470181767315456/">
     <img src="https://media.licdn.com/dms/image/D5622AQGeAUaUi9BR9w/feedshare-shrink_800/0/1683824104000?e=1686787200&v=beta&t=v46ORFHDGatkb4hS7QVEtz30Knthz-7GEF5TuY4EA5o" alt="Latest LinkedIn post" width="500">
   </a>
