@@ -117,6 +117,45 @@
   </a>
 </p>
 
+<h3 align="center">Usability Testing</h3>
+<p align="center">
+      <a href="https://usabilityhub.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Usability%20Hub-00B8D9.svg?style=for-the-badge&logo=usabilityhub&logoColor=white"
+      alt="Usability Hub"/>
+  </a>
+  <a href="https://gatling.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Gatling-EC1C24.svg?style=for-the-badge&logo=gatling&logoColor=white"
+      alt="Gatling"/>
+  </a>
+  <a href="https://www.microfocus.com/en-us/solutions/performance-testing/loadrunner-professional" target="_blank">
+    <img src="https://img.shields.io/badge/Load%20Runner-FF7F00.svg?style=for-the-badge&logo=microfocus&logoColor=white"
+      alt="Load Runner"/>
+  </a>
+  <a href="https://locust.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Locust-2C3E50.svg?style=for-the-badge&logo=locust&logoColor=white"
+      alt="Locust"/>
+  </a>
+</p>
+
+<h3 align="center">Management Tools</h3>
+<p align="center">
+      <a href="https://www.jetbrains.com/youtrack/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTrack-000000.svg?style=for-the-badge&logo=youtrack&logoColor=white"
+      alt="YouTrack"/>
+  </a>
+  <a href="https://trello.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white"
+      alt="Trello"/>
+  </a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white"
+      alt="Jira"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"/>
+  </a>
+</p>
 
 <h3 align="center">Database</h3>
 <p align="center">
