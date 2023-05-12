@@ -86,6 +86,31 @@
       alt="webpack"/>
   </a>
 </p>
+==
+<h3 align="center">Security Testing</h3>
+<p align="center">
+      <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://img.shields.io/badge/Burp%20Suite-%23000000.svg?style=for-the-badge&logo=PortSwigger&logoColor=orange"
+      alt="Burp Suite"/>
+  </a>
+  <a href="https://owasp.org/www-project-zap/" target="_blank">
+    <img src="https://img.shields.io/badge/Owasp%20Zap-%23F5792A.svg?style=for-the-badge&logo=OWASP&logoColor=white"
+      alt="Owasp Zap"/>
+  </a>
+  <a href="https://www.kali.org/docs/pentesting/" target="_blank">
+    <img src="https://img.shields.io/badge/Penetration-Testing%20-557C94.svg?style=for-the-badge&logo=Kali%20Linux&logoColor=white"
+      alt="Penetration Testing"/>
+  </a>
+  <a href="https://github.com/sqlmapproject/sqlmap" target="_blank"> 
+    <img src="https://img.shields.io/badge/SQL%20Map-%23E84142.svg?style=for-the-badge&logo=GitHub&logoColor=white"
+      alt="SQL Map"/> 
+  </a> 
+  <a href="https://owasp.org/www-community/attacks/SQL_Injection" target="_blank">
+    <img src="https://img.shields.io/badge/SQL%20Injection-%231572B6.svg?style=for-the-badge&logo=OWASP&logoColor=white"
+      alt="SQL Injection"/> 
+  </a>
+</p>
+==
 
 <h3 align="center">Backend</h3>
 <p align="center">
