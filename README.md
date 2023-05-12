@@ -305,7 +305,59 @@
   </blockquote>
 </div>
 
+=================
+<div align="center">
+  <h2>🕴️ Latest LinkedIn Post</h2>
+  <div id="post-carousel">
+    <a href="https://www.linkedin.com/feed/update/urn:li:activity:7062470181767315456/">
+      <img src="https://media.licdn.com/dms/image/D5622AQGeAUaUi9BR9w/feedshare-shrink_800/0/1683824104000?e=1686787200&v=beta&t=v46ORFHDGatkb4hS7QVEtz30Knthz-7GEF5TuY4EA5o" alt="Latest LinkedIn post" width="500">
+    </a>
+    <blockquote class="linkedin-card">
+      <p>🔰 Top 18 Websites to Practice Pen-Testing and Improve Your Hacking Skills🔰</p>
+    </blockquote>
 
+    <a href="(https://www.linkedin.com/posts/mejbaur_pentesting-security-wifi-activity-7062284899029823489-lkm_?utm_source=share&utm_medium=member_desktop)">
+      <img src="https://media.licdn.com/dms/image/D5612AQGzw7wHD7B2ow/article-cover_image-shrink_600_2000/0/1683779514096?e=1689206400&v=beta&t=qNOa0u2FL9hrbWw03w6F8AyltM8Vtr1HXT6M3zvIJbE" alt="Latest LinkedIn post" width="500">
+    </a>
+    <blockquote class="linkedin-card">
+      <p>🔰 Free Resources for WiFi Security - WiFi Pentesting 🔰</p>
+    </blockquote>
+  </div>
+  <div>
+    <button class="btn btn-left">&#10094;</button>
+    <button class="btn btn-right">&#10095;</button>
+  </div>
+</div>
+
+<script>
+  const postCarousel = document.querySelector('#post-carousel');
+  const leftBtn = document.querySelector('.btn-left');
+  const rightBtn = document.querySelector('.btn-right');
+  const postWidth = postCarousel.querySelector('a').offsetWidth;
+  let postIndex = 0;
+
+  function movePosts() {
+    postCarousel.style.transform = `translateX(${-postIndex * postWidth}px)`;
+  }
+
+  leftBtn.addEventListener('click', () => {
+    postIndex--;
+    if (postIndex < 0) {
+      postIndex = postCarousel.children.length - 1;
+    }
+    movePosts();
+  });
+
+  rightBtn.addEventListener('click', () => {
+    postIndex++;
+    if (postIndex >= postCarousel.children.length) {
+      postIndex = 0;
+    }
+    movePosts();
+  });
+</script>
+
+============
 
 
 
