@@ -250,6 +250,79 @@
   </a>
 </p>
 
+<h3 align="center">Cyber Security & Ethical Hacking</h3>
+<p align="center">
+      <a href="https://nmap.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Nmap-4B0082.svg?style=for-the-badge&logo=nmap&logoColor=white"
+      alt="Nmap"/>
+  </a>
+  <a href="https://www.metasploit.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Metasploit-242424.svg?style=for-the-badge&logo=metasploit&logoColor=white"
+      alt="Metasploit"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white"
+      alt="Wireshark"/>
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://img.shields.io/badge/Burp%20Suite-DD1E16.svg?style=for-the-badge&logo=burp-suite&logoColor=white"
+      alt="Burp Suite"/>
+  </a>
+  <a href="https://www.aircrack-ng.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Aircrack--ng-1E90FF.svg?style=for-the-badge&logo=aircrack-ng&logoColor=white"
+      alt="Aircrack-ng"/>
+  </a>
+  <a href="https://www.openwall.com/john/" target="_blank">
+    <img src="https://img.shields.io/badge/John%20the%20Ripper-FFA500.svg?style=for-the-badge&logo=linux&logoColor=white"
+      alt="John the Ripper"/>
+  </a>
+  <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
+    <img src="https://img.shields.io/badge/Hydra-2E8B57.svg?style=for-the-badge&logo=hydra&logoColor=white"
+      alt="Hydra"/>
+  </a>
+  <a href="https://www.tenable.com/products/nessus/nessus-professional" target="_blank">
+    <img src="https://img.shields.io/badge/Nessus-33CC33.svg?style=for-the-badge&logo=nessus&logoColor=white"
+      alt="Nessus"/>
+  </a>
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white"
+      alt="Kali Linux"/>
+  </a>
+  <a href="https://www.snort.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Snort-C12E2A.svg?style=for-the-badge&logo=snort&logoColor=white"
+      alt="Snort"/>
+  </a>
+   <a href="https://www.maltego.com/" target="_blank">
+    <img src="https://img.shields.io/badge/maltego-0078D4.svg?style=for-the-badge&logo=maltego&logoColor=white" alt="maltego"/>
+  </a>
+  <a href="https://sqlmap.org/" target="_blank">
+    <img src="https://img.shields.io/badge/sqlmap-000000.svg?style=for-the-badge&logo=sqlmap&logoColor=white" alt="sqlmap"/>
+  </a>
+  <a href="https://hashcat.net/hashcat/" target="_blank">
+    <img src="https://img.shields.io/badge/hashcat-3178C6.svg?style=for-the-badge&logo=hashcat&logoColor=white" alt="hashcat"/>
+  </a>
+  <a href="https://owasp.org/www-project-zap/" target="_blank">
+    <img src="https://img.shields.io/badge/owasp_zap-2E2E2E.svg?style=for-the-badge&logo=owasp&logoColor=white"
+      alt="OWASP ZAP"/>
+  </a>
+  <a href="https://www.gnu.org/software/gdb/" target="_blank">
+    <img src="https://img.shields.io/badge/GDB-BB3300.svg?style=for-the-badge&logo=gdb&logoColor=white"
+      alt="GDB"/>
+  </a>
+  <a href="https://cirt.net/Nikto2" target="_blank">
+    <img src="https://img.shields.io/badge/nikto-000000.svg?style=for-the-badge&logo=nikto&logoColor=white"
+      alt="Nikto"/>
+  </a>
+  <a href="https://www.openvas.org/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenVAS-20232A.svg?style=for-the-badge&logo=gnu&logoColor=white"
+      alt="OpenVAS"/>
+  </a>
+  <a href="https://docs.microsoft.com/en-us/sysinternals/" target="_blank">
+    <img src="https://img.shields.io/badge/Sysinternals-00BFFF.svg?style=for-the-badge&logo=windows&logoColor=white"
+      alt="Sysinternals Suite"/>
+  </a>
+</p>
+
 ----
 
 <h3 align="center">Connect with me</h3>
