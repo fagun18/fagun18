@@ -30,7 +30,7 @@
       alt="c"/>
   </a>
    <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
+    <img src="https://img.shields.io/badge/Python-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
       alt="python"/> 
   </a>
   <a href="https://www.java.com" target="_blank"> 
@@ -101,6 +101,19 @@
   <a href="https://www.selenium.dev/documentation/en/webdriver/" target="_blank">
     <img src="https://img.shields.io/badge/Python--selenium-%234B8BBE.svg?style=for-the-badge&logo=Python&logoColor=white"
       alt="Python- selenium"/> 
+  </a>
+</p>
+
+
+<h3 align="center">API Testing</h3>
+<p align="center">
+      <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"
+      alt="Postman"/>
+  </a>
+  <a href="https://restfulapi.net/" target="_blank">
+    <img src="https://img.shields.io/badge/API%20web%20services-006699.svg?style=for-the-badge&logo=api&logoColor=white"
+      alt="API web services"/>
   </a>
 </p>
 
