@@ -305,11 +305,47 @@
   </blockquote>
 </div>
 
+======================
 
 <div align="center">
-  <h2>📘 Latest Facebook Post</h2>
-  <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fmbf018%2Fposts%2Fpfbid0axeLUGNAbe1ta4kKZVC5opbEJjn5AaFsphsSZpPm7SCuRcJExydjsRyPR2hembfel&show_text=true&width=500" width="500" height="590" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+  <h2>🕴️ Latest LinkedIn Posts</h2>
+  <div class="post-grid">
+    <div>
+      <a href="https://www.linkedin.com/feed/update/urn:li:activity:7062470181767315456/">
+        <img src="https://media.licdn.com/dms/image/D5622AQGeAUaUi9BR9w/feedshare-shrink_800/0/1683824104000?e=1686787200&v=beta&t=v46ORFHDGatkb4hS7QVEtz30Knthz-7GEF5TuY4EA5o" alt="Latest LinkedIn post">
+      </a>
+      <blockquote class="linkedin-card">
+        <p>🔰 Top 18 Websites to Practice Pen-Testing and Improve Your Hacking Skills🔰</p>
+      </blockquote>
+    </div>
+    <div>
+      <a href="(https://www.linkedin.com/posts/mejbaur_pentesting-security-wifi-activity-7062284899029823489-lkm_?utm_source=share&utm_medium=member_desktop)">
+        <img src="https://media.licdn.com/dms/image/D5612AQGzw7wHD7B2ow/article-cover_image-shrink_600_2000/0/1683779514096?e=1689206400&v=beta&t=qNOa0u2FL9hrbWw03w6F8AyltM8Vtr1HXT6M3zvIJbE" alt="Latest LinkedIn post">
+      </a>
+      <blockquote class="linkedin-card">
+        <p>🔰 Free Resources for WiFi Security - WiFi Pentesting 🔰</p>
+      </blockquote>
+    </div>
+  </div>
 </div>
+
+<style>
+.post-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  grid-gap: 30px;
+  margin-top: 30px;
+}
+
+.post-grid div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+</style>
+
+==============
 
 
 
