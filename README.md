@@ -23,303 +23,125 @@
 <p align="center">
   <img style="width:26rem; height:auto" src="https://uploads.toptal.io/blog/image/91302/toptal-blog-image-1434578005589-4e6897ec04cc0b3c7075b9b011ee915c.gif"/>
 </p>
+
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
+    <img src="https://img.shields.io/badge/C%20Programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   </a>
-   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/Python-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="python"/> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://img.shields.io/badge/Python-007396.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
   <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
+    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
+    <img src="https://img.shields.io/badge/HTML-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   </a>
 </p>
 
-
 <h3 align="center">Security Testing</h3>
 <p align="center">
-      <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://img.shields.io/badge/Burp%20Suite-%23000000.svg?style=for-the-badge&logo=PortSwigger&logoColor=orange"
-      alt="Burp Suite"/>
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://img.shields.io/badge/Burp%20Suite-%23000000.svg?style=for-the-badge&logo=PortSwigger&logoColor=orange" alt="Burp Suite"/>
   </a>
   <a href="https://owasp.org/www-project-zap/" target="_blank">
-    <img src="https://img.shields.io/badge/Owasp%20Zap-%23F5792A.svg?style=for-the-badge&logo=OWASP&logoColor=white"
-      alt="Owasp Zap"/>
+    <img src="https://img.shields.io/badge/OWASP%20ZAP-%23F5792A.svg?style=for-the-badge&logo=OWASP&logoColor=white" alt="OWASP ZAP"/>
   </a>
   <a href="https://www.kali.org/docs/pentesting/" target="_blank">
-    <img src="https://img.shields.io/badge/Penetration-Testing%20-557C94.svg?style=for-the-badge&logo=Kali%20Linux&logoColor=white"
-      alt="Penetration Testing"/>
+    <img src="https://img.shields.io/badge/Penetration%20Testing-557C94.svg?style=for-the-badge&logo=Kali%20Linux&logoColor=white" alt="Penetration Testing"/>
   </a>
   <a href="https://github.com/sqlmapproject/sqlmap" target="_blank"> 
-    <img src="https://img.shields.io/badge/SQL%20Map-%23E84142.svg?style=for-the-badge&logo=GitHub&logoColor=white"
-      alt="SQL Map"/> 
-  </a> 
+    <img src="https://img.shields.io/badge/SQL%20Map-E84142.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="SQL Map"/>
+  </a>
   <a href="https://owasp.org/www-community/attacks/SQL_Injection" target="_blank">
-    <img src="https://img.shields.io/badge/SQL%20Injection-%231572B6.svg?style=for-the-badge&logo=OWASP&logoColor=white"
-      alt="SQL Injection"/> 
+    <img src="https://img.shields.io/badge/SQL%20Injection-1572B6.svg?style=for-the-badge&logo=OWASP&logoColor=white" alt="SQL Injection"/>
+  </a>
+  <a href="https://github.com/Emoe/pentest-tools/blob/master/xsstrike/README.md" target="_blank">
+    <img src="https://img.shields.io/badge/XSStrike-3b5998.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="XSStrike"/>
+  </a>
+  <a href="https://dalfox.readthedocs.io/en/latest/" target="_blank">
+    <img src="https://img.shields.io/badge/Dalfox-F477C7.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="Dalfox"/>
   </a>
 </p>
 
 <h3 align="center">Automation Testing</h3>
 <p align="center">
-      <a href="https://www.jetbrains.com/aqua/" target="_blank">
-    <img src="https://img.shields.io/badge/JetBrains%20Aqua-%23000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white"
-      alt="JetBrains Aqua"/>
+  <a href="https://www.jetbrains.com/aqua/" target="_blank">
+    <img src="https://img.shields.io/badge/JetBrains%20Aqua-000000.svg?style=for-the-badge&logo=JetBrains&logoColor=white" alt="JetBrains Aqua"/>
   </a>
   <a href="https://www.selenium.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Selenium-%23404D59.svg?style=for-the-badge&logo=Selenium&logoColor=white"
-      alt="Selenium"/>
+    <img src="https://img.shields.io/badge/Selenium-43B02A.svg?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/>
   </a>
-  <a href="https://www.eclipse.org/downloads/packages/release/2021-03/r/eclipse-ide-java-developers" target="_blank">
-    <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=Eclipse&logoColor=white"
-      alt="Eclipse"/>
+  <a href="https://playwright.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Playwright-004028.svg?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Playwright"/>
   </a>
-  <a href="https://www.katalon.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Katalon%20Studio-%233C0F5D.svg?style=for-the-badge&logo=Katalon%20Studio&logoColor=white"
-      alt="Katalon Studio"/> 
-  </a> 
+  <a href="https://cucumber.io/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=Cucumber&logoColor=white" alt="Cucumber"/> 
+  </a>
   <a href="https://www.selenium.dev/documentation/en/webdriver/" target="_blank">
-    <img src="https://img.shields.io/badge/Python--selenium-%234B8BBE.svg?style=for-the-badge&logo=Python&logoColor=white"
-      alt="Python- selenium"/> 
+    <img src="https://img.shields.io/badge/Python--Selenium-4B8BBE.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python-Selenium"/> 
   </a>
 </p>
 
-
 <h3 align="center">API Testing</h3>
 <p align="center">
-      <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white"
-      alt="Postman"/>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
   </a>
   <a href="https://restfulapi.net/" target="_blank">
-    <img src="https://img.shields.io/badge/API%20web%20services-006699.svg?style=for-the-badge&logo=api&logoColor=white"
-      alt="API web services"/>
+    <img src="https://img.shields.io/badge/API%20Testing-006699.svg?style=for-the-badge&logo=api&logoColor=white" alt="API Testing"/>
+  </a>
+  <a href="https://jmeter.apache.org/" target="_blank">
+    <img src="https://img.shields.io/badge/JMeter-D22128.svg?style=for-the-badge&logo=Apache&logoColor=white" alt="JMeter"/>
   </a>
 </p>
 
 <h3 align="center">Usability Testing</h3>
 <p align="center">
-      <a href="https://usabilityhub.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Usability%20Hub-00B8D9.svg?style=for-the-badge&logo=usabilityhub&logoColor=white"
-      alt="Usability Hub"/>
+  <a href="https://usabilityhub.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Usability%20Hub-00B8D9.svg?style=for-the-badge&logo=usabilityhub&logoColor=white" alt="Usability Hub"/>
   </a>
   <a href="https://gatling.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Gatling-EC1C24.svg?style=for-the-badge&logo=gatling&logoColor=white"
-      alt="Gatling"/>
+    <img src="https://img.shields.io/badge/Gatling-EC1C24.svg?style=for-the-badge&logo=gatling&logoColor=white" alt="Gatling"/>
   </a>
   <a href="https://www.microfocus.com/en-us/solutions/performance-testing/loadrunner-professional" target="_blank">
-    <img src="https://img.shields.io/badge/Load%20Runner-FF7F00.svg?style=for-the-badge&logo=microfocus&logoColor=white"
-      alt="Load Runner"/>
+    <img src="https://img.shields.io/badge/Load%20Runner-FF7F00.svg?style=for-the-badge&logo=microfocus&logoColor=white" alt="Load Runner"/>
   </a>
   <a href="https://locust.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Locust-2C3E50.svg?style=for-the-badge&logo=locust&logoColor=white"
-      alt="Locust"/>
+    <img src="https://img.shields.io/badge/Locust-2C3E50.svg?style=for-the-badge&logo=locust&logoColor=white" alt="Locust"/>
   </a>
 </p>
 
 <h3 align="center">Management Tools</h3>
 <p align="center">
-      <a href="https://www.jetbrains.com/youtrack/" target="_blank">
-    <img src="https://img.shields.io/badge/YouTrack-000000.svg?style=for-the-badge&logo=youtrack&logoColor=white"
-      alt="YouTrack"/>
-  </a>
-  <a href="https://trello.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white"
-      alt="Trello"/>
+  <a href="https://www.jetbrains.com/youtrack/" target="_blank">
+    <img src="https://img.shields.io/badge/YouTrack-000000.svg?style=for-the-badge&logo=youtrack&logoColor=white" alt="YouTrack"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white"
-      alt="Jira"/>
+    <img src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
   </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"/>
+  <a href="https://trello.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Trello-0079BF.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
   </a>
 </p>
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
-  </a>
-  <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
-      alt="redis"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a> 
-</p>
-
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-  </a>
-  <a href="https://netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
-  </a>
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/> 
-  </a> 
-</p>
-
-<h3 align="center">Testing</h3>
-<p align="center"> 
-  <a href="https://www.selenium.dev" target="_blank"> 
-    <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
-      alt="selenium" /> 
-  </a> 
-  <a href="https://junit.org/junit5/" target="_blank"> 
-    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
-  </a> 
-</p>
-
-<h3 align="center">Version Control & CI/CD</h3>
+<h3 align="center">Version Control</h3>
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
+    <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="https://gitlab.com/Elanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="git"/>
-  </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
-  </a>
-</p>
-
-<h3 align="center">Preferred IDEs  & Tools :</h3>
-<p align="center"> 
-  <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-  <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
-  </a>
-  <a href="https://postman.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a>
-  <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
-      alt="virtualbox"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-  </a>
-</p>
-
-<h3 align="center">Cyber Security & Ethical Hacking</h3>
-<p align="center">
-      <a href="https://nmap.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Nmap-4B0082.svg?style=for-the-badge&logo=nmap&logoColor=white"
-      alt="Nmap"/>
-  </a>
-  <a href="https://www.metasploit.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Metasploit-242424.svg?style=for-the-badge&logo=metasploit&logoColor=white"
-      alt="Metasploit"/>
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=wireshark&logoColor=white"
-      alt="Wireshark"/>
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://img.shields.io/badge/Burp%20Suite-DD1E16.svg?style=for-the-badge&logo=burp-suite&logoColor=white"
-      alt="Burp Suite"/>
-  </a>
-  <a href="https://www.aircrack-ng.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Aircrack--ng-1E90FF.svg?style=for-the-badge&logo=aircrack-ng&logoColor=white"
-      alt="Aircrack-ng"/>
-  </a>
-  <a href="https://www.openwall.com/john/" target="_blank">
-    <img src="https://img.shields.io/badge/John%20the%20Ripper-FFA500.svg?style=for-the-badge&logo=linux&logoColor=white"
-      alt="John the Ripper"/>
-  </a>
-  <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank">
-    <img src="https://img.shields.io/badge/Hydra-2E8B57.svg?style=for-the-badge&logo=hydra&logoColor=white"
-      alt="Hydra"/>
-  </a>
-  <a href="https://www.tenable.com/products/nessus/nessus-professional" target="_blank">
-    <img src="https://img.shields.io/badge/Nessus-33CC33.svg?style=for-the-badge&logo=nessus&logoColor=white"
-      alt="Nessus"/>
-  </a>
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=kali-linux&logoColor=white"
-      alt="Kali Linux"/>
-  </a>
-  <a href="https://www.snort.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Snort-C12E2A.svg?style=for-the-badge&logo=snort&logoColor=white"
-      alt="Snort"/>
-  </a>
-   <a href="https://www.maltego.com/" target="_blank">
-    <img src="https://img.shields.io/badge/maltego-0078D4.svg?style=for-the-badge&logo=maltego&logoColor=white" alt="maltego"/>
-  </a>
-  <a href="https://sqlmap.org/" target="_blank">
-    <img src="https://img.shields.io/badge/sqlmap-000000.svg?style=for-the-badge&logo=sqlmap&logoColor=white" alt="sqlmap"/>
-  </a>
-  <a href="https://hashcat.net/hashcat/" target="_blank">
-    <img src="https://img.shields.io/badge/hashcat-3178C6.svg?style=for-the-badge&logo=hashcat&logoColor=white" alt="hashcat"/>
-  </a>
-  <a href="https://owasp.org/www-project-zap/" target="_blank">
-    <img src="https://img.shields.io/badge/owasp_zap-2E2E2E.svg?style=for-the-badge&logo=owasp&logoColor=white"
-      alt="OWASP ZAP"/>
-  </a>
-  <a href="https://www.gnu.org/software/gdb/" target="_blank">
-    <img src="https://img.shields.io/badge/GDB-BB3300.svg?style=for-the-badge&logo=gdb&logoColor=white"
-      alt="GDB"/>
-  </a>
-  <a href="https://cirt.net/Nikto2" target="_blank">
-    <img src="https://img.shields.io/badge/nikto-000000.svg?style=for-the-badge&logo=nikto&logoColor=white"
-      alt="Nikto"/>
-  </a>
-  <a href="https://www.openvas.org/" target="_blank">
-    <img src="https://img.shields.io/badge/OpenVAS-20232A.svg?style=for-the-badge&logo=gnu&logoColor=white"
-      alt="OpenVAS"/>
-  </a>
-  <a href="https://docs.microsoft.com/en-us/sysinternals/" target="_blank">
-    <img src="https://img.shields.io/badge/Sysinternals-00BFFF.svg?style=for-the-badge&logo=windows&logoColor=white"
-      alt="Sysinternals Suite"/>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
