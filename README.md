@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mejbaur Bahar Fagun <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
-<h3 align="center">Software QA Engineer & Certified Ethical Hacker</h3>
+<h3 align="center">Software Engineer in Test | Certified Ethical Hacker | Bug Bounty Hunter</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF6F61&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+awesome+together!" alt="Typing SVG" />
@@ -9,17 +9,20 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-- 🌱 I’m currently learning **It Was Secret** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+<p align="center">
+  I am a passionate <strong>Software Engineer in Test</strong> with expertise in ensuring software quality through automation and manual testing. As a <strong>Certified Ethical Hacker</strong>, I specialize in identifying and mitigating security vulnerabilities. I am also an active <strong>Bug Bounty Hunter</strong>, contributing to the security of various platforms by finding and reporting vulnerabilities. My goal is to bridge the gap between software quality and security, ensuring robust and secure applications.
+</p>
 
-- 👯 I’m looking to collaborate on **It Was Also A Secret**
+<p align="center">
+  <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+</p>
 
-- 🤝 I’m looking for help with **Software Testing**
-
-- 👨‍💻 All of my projects are available [@Mejbaur Bahar Fagun](https://github.com/fagunti)
-
-- 💬 Ask me about **Software Testing & Cyber Security 😆**
-
-- ⚡ Fun fact **Coding is a passion and not a profession.**
+- 🌱 I’m currently learning **Advanced Penetration Testing Techniques**.
+- 👯 I’m looking to collaborate on **Open Source Security Tools**.
+- 🤝 I’m looking for help with **AI-Driven Security Testing**.
+- 👨‍💻 All of my projects are available [@Mejbaur Bahar Fagun](https://github.com/fagunti).
+- 💬 Ask me about **Software Testing, Ethical Hacking, and Bug Bounty Hunting**.
+- ⚡ Fun fact: **I once found a critical vulnerability in a Fortune 500 company's system!**
 
 ---
 
@@ -107,6 +110,22 @@
   <a href="https://www.selenium.dev/documentation/en/webdriver/" target="_blank">
     <img src="https://img.shields.io/badge/Python--Selenium-4B8BBE.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python-Selenium"/> 
   </a>
+</p>
+
+---
+
+<h2 align="center">🔐 Bug Bounty Achievements</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HackerOne-000000?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne" />
+  <img src="https://img.shields.io/badge/Bugcrowd-000000?style=for-the-badge&logo=bugcrowd&logoColor=white" alt="Bugcrowd" />
+  <img src="https://img.shields.io/badge/OpenBugBounty-000000?style=for-the-badge&logo=openbugbounty&logoColor=white" alt="OpenBugBounty" />
+</p>
+
+<p align="center">
+  - 🏆 Recognized by <strong>HackerOne</strong> for discovering critical vulnerabilities in multiple platforms.
+  - 🐛 Contributed to <strong>Bugcrowd</strong> by identifying and reporting high-severity bugs.
+  - 🔍 Active participant in <strong>OpenBugBounty</strong>, helping secure websites worldwide.
 </p>
 
 ---
