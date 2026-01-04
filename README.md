@@ -176,7 +176,7 @@ Senior Software QA Engineer with **5+ years of experience** across Manual, Autom
 
 ---
 
-## � Leadership & Community
+## 👥 Leadership & Community
 
 - **Team Leadership**: Led a **8-member SQA team** and an **Automation Team**, improving coverage by 20% and CI speed by 35%.
 - **Volunteer**: Campus Ambassador @ **Team Matrix - Elite Hacker** (Jan 2022 – Feb 2024). Empowered students with free security/QA resources.
@@ -186,8 +186,12 @@ Senior Software QA Engineer with **5+ years of experience** across Manual, Autom
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fagun18&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fagun18&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=fagun18&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagun18&layout=compact&theme=radical&hide_border=true" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fagun18&theme=radical&hide_border=true" width="90%" />
 </p>
 
 <p align="center">
