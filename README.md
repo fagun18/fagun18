@@ -58,13 +58,21 @@ Senior Software QA Engineer with **5+ years of experience** across Manual, Autom
   </table>
 </div>
 
+### 🚀 QA Automation & Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,java,html,css,selenium,playwright,cypress,appium,postman,jenkins,docker,git,github,kubernetes,linux,aws&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,java,html,css,selenium,cypress,postman,jenkins,docker,git,github,kubernetes,linux,aws&perline=10&theme=dark" />
 </p>
+
+<div align="center">
+  <code><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /></code>
+  <code><img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" /></code>
+</div>
+
+### 🛡️ Cybersecurity & AI Testing
 
 ---
 
-## � Professional Odyssey
+## 👨‍💻 Professional Odyssey
 
 <details open>
 <summary><b>🚀 Markopolo.ai | Senior Software Engineer QA (Current)</b></summary>
