@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mejbaur%20Bahar%20Fagun&fontSize=50&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Mejbaur%20Bahar%20Fagun&fontSize=55&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20QA%20|%20AI%20&%20Security%20Specialist&descSize=20&descAlignY=60" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+QA;Certified+Ethical+Hacker;AI+Testing+%26+LLM+Security+Expert;Bug+Bounty+Hunter+%7C+AppSec+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=Leading+QA+at+Markopolo.ai;AI+Testing+%26+LLM+Security+Expert;Certified+Ethical+Hacker+(CEH);Bug+Bounty+Hunter+%7C+NASA+%26+OpenAI;Architecting+Scalable+Automation+Frameworks" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,13 +20,13 @@
 
 ---
 
-## 🚀 About Me
+## ⚡ Quick Pitch
 
-I am a **Senior Software Engineer QA** at **Markopolo.ai**, dedicated to ensuring software excellence through advanced automation and security auditing. My expertise lies in architecting scalable automation frameworks, validating AI/ML models, and securing systems against complex vulnerabilities.
+I am a **Senior Software Engineer QA** at **Markopolo.ai**, specializing in the intersection of **Artificial Intelligence** and **Cybersecurity**. I architect high-performance automation ecosystems and conduct deep-security audits for enterprise-grade LLMs.
 
-- 🛡️ **Security**: Certified Ethical Hacker & Active Bug Bounty Hunter for NASA, OpenAI, and more.
-- 🤖 **AI Testing**: Expert in LLM Security, Bias Testing, and AI-driven QA automation.
-- ⚡ **Performance**: Benchmark specialist using JMeter and K6 for high-traffic environments.
+- 🤖 **AI Strategy**: Validating AI-driven TTS models, multi-channel agents, and ensuring robustness against adversarial prompt injection.
+- 🛡️ **Cyber Defense**: Active researcher identifying critical vulnerabilities for global organizations like NASA and OpenAI.
+- ⚙️ **QA Engineering**: Transforming manual processes into rapid, reliable, and scalable CI/CD automation pipelines.
 
 ---
 
@@ -41,11 +41,12 @@ I am a **Senior Software Engineer QA** at **Markopolo.ai**, dedicated to ensurin
   <img src="https://img.shields.io/badge/K6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF9900?style=for-the-badge&logo=portswigger&logoColor=white" />
   <img src="https://img.shields.io/badge/OWASP-37474F?style=for-the-badge&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTest-0A6EBE?style=for-the-badge&logo=pytest&logoColor=white" />
 </p>
 
 ---
 
-## 🏆 Achievements & Badges
+## 🏆 Hall of Fame & Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fagun18&theme=radical&no-frame=true&column=4" />
@@ -54,46 +55,86 @@ I am a **Senior Software Engineer QA** at **Markopolo.ai**, dedicated to ensurin
 <div align="center">
   <table>
     <tr>
-      <td><strong>TryHackMe</strong></td>
-      <td><strong>Bug Bounty</strong></td>
-      <td><strong>QA Leadership</strong></td>
+      <td><b>🥇 Top 1% Hacker</b></td>
+      <td><b>🛡️ Bug Bounty Elite</b></td>
+      <td><b>👨‍💼 Team Leadership</b></td>
     </tr>
     <tr>
-      <td>Ranked #770 Worldwide</td>
-      <td>NASA & OpenAI Hall of Fame</td>
-      <td>Lead of 8 SQA Engineers</td>
+      <td>TryHackMe Worldwide #770 <br> (#12 in Bangladesh)</td>
+      <td>NASA (Data Exposure) <br> OpenAI (Limit Bypass)</td>
+      <td>Leading QA Strategy <br> Mentoring 8+ Engineers</td>
     </tr>
   </table>
 </div>
 
 ---
 
-## 🚀 Signature Projects
+## 📅 Professional Odyssey
+
+<details open>
+<summary><b>💼 Work Experience (Click to Expand)</b></summary>
+<br>
+
+### 🚀 Senior Software Engineer QA | Markopolo.ai  
+*Nov 2025 – Present*  
+- **Leading AI QA Strategy**: Orchestrating testing for AI-driven TTS (Text-to-Speech) models and autonomous campaign agents.
+- **Architecting Automation**: Built scalable frameworks and specialized AI/ML evaluation protocols from scratch.
+- **LLM Hardening**: Validating model robustness, prosody, and resistance to complex prompt injection attacks.
+- **Mentorship**: Defining KPIs and fostering a high-performance culture across the QA team.
+
+### 🛡️ Software Engineer in Test (L2) | Devxhub  
+*Aug 2023 – Oct 2025*  
+- **Security & Automation Specialist**: Orchestrated security assurance and performance tuning for large-scale applications.
+- **AI Application Testing**: Validated model accuracy and bias while ensuring 35% reduction in regression time via optimized CI/CD.
+- **Strategic Quality**: Implemented Agile QA best practices to ensure reliable and high-speed product delivery.
+
+### 🧪 Junior Software QA Engineer | Devxhub  
+*Aug 2022 – Aug 2023*  
+- **Quality Analysis**: Conducted rigorous testing and root-cause analysis for mission-critical issues.
+- **Cross-functional Collaboration**: Partnered with Dev teams to support 100% successful product launches.
+
+</details>
+
+<details>
+<summary><b>🎓 Certifications & Education</b></summary>
+<br>
+
+- **BSc in Computer Science & Engineering** | Bangladesh University (CGPA 3.74)
+- **Certified Ethical Hacker (CEH)** | EC-Council
+- **Certified AppSec Practitioner (CAP)** | High-level Application Security
+- **Advanced Appium & Automated Visual Testing** | Mobile Automation Expert
+- **LambdaTest Test Automation Professional** | Cloud Testing Specialist
+
+</details>
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
         <h3 align="center">🚌 KoyJabo.com</h3>
-        <p align="center">Smart Transport Guide for Bangladesh with Offline Support.</p>
-        <p align="center"><a href="https://fagun.sqatesting.com/intercity"><b>View Platform</b></a></p>
+        <p align="center">Smart Transport Guide for Bangladesh with full Offline Support (PWA).</p>
+        <p align="center"><a href="https://fagun.sqatesting.com/intercity"><b>Visit Site</b></a></p>
       </td>
       <td width="50%">
         <h3 align="center">🔍 Fagun XSS Recon</h3>
-        <p align="center">Automated toolkit for high-signal XSS reconnaissance.</p>
-        <p align="center"><a href="https://github.com/fagun18/fagun-xss-recon"><b>View Repository</b></a></p>
+        <p align="center">Automated high-signal URL targeting toolkit for XSS discovery.</p>
+        <p align="center"><a href="https://github.com/fagun18/fagun-xss-recon"><b>View Code</b></a></p>
       </td>
     </tr>
     <tr>
       <td width="50%">
         <h3 align="center">🐞 Bug Matrix</h3>
-        <p align="center">Top-rated Browser Extension for QA & Security Pros.</p>
-        <p align="center"><a href="https://chromewebstore.google.com/detail/bug-matrix-%F0%9F%90%9E-%E2%80%93-sqa-testi/peelhgmemfhajlldpkamljidapnfnaob"><b>View Extension</b></a></p>
+        <p align="center">Comprehensive browser extension for QA & Security Pros (500+ users).</p>
+        <p align="center"><a href="https://chromewebstore.google.com/detail/bug-matrix-%F0%9F%90%9E-%E2%80%93-sqa-testi/peelhgmemfhajlldpkamljidapnfnaob"><b>Install Tool</b></a></p>
       </td>
       <td width="50%">
         <h3 align="center">🧪 Test Automation Pro</h3>
         <p align="center">Enterprise-grade E2E framework using Playwright & Appium.</p>
-        <p align="center"><a href="https://github.com/fagun18/test-automation-framework"><b>View Framework</b></a></p>
+        <p align="center"><a href="https://github.com/fagun18/test-automation-framework"><b>Explore Framework</b></a></p>
       </td>
     </tr>
   </table>
@@ -109,55 +150,14 @@ I am a **Senior Software Engineer QA** at **Markopolo.ai**, dedicated to ensurin
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagun18&layout=compact&theme=radical&hide_border=true" width="300px" />
-</p>
-
----
-
-## 📅 Professional Odyssey
-
-<details open>
-<summary><b>💼 Work Experience (Click to Expand)</b></summary>
-<br>
-
-> **Senior Software Engineer QA** | **Markopolo.ai**  
-> *Nov 2025 – Present*  
-> Leading QA for AI products, TTS models, and security hardening.
-
-> **Software Engineer in Test (L2)** | **DevExp Hub**  
-> *Aug 2023 – Oct 2025*  
-> Reduced regression time by 35% through CI/CD & Playwright automation.
-
-> **Jr. Software QA Engineer** | **DevExp Hub**  
-> *Aug 2022 – Aug 2023*  
-> Focused on product analysis and cross-functional quality integration.
-
-</details>
-
-<details>
-<summary><b>🎓 Education & Certifications</b></summary>
-<br>
-
-- **BSc in Computer Science & Engineering** | Bangladesh University (CGPA 3.74)
-- **Certified Ethical Hacker (CEH v12)** | EC-Council
-- **AppSec Practitioner (CAP)** | OWASP-aligned Certification
-- **Advanced Appium & Visual Testing**
-
-</details>
-
----
-
-## 🔑 SEO Keywords
-
-`software testing`, `QA leadership`, `automation testing`, `Playwright`, `Cypress`, `AI testing`, `LLM security`, `ethical hacking`, `bug bounty`, `NASA`, `OpenAI`, `AppSec`, `CI/CD`, `QAOps`.
-
----
-
----
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fagun18&theme=radical&hide_border=true&area=true" width="100%" />
 </p>
+
+---
+
+## 🔑 SEO Mastery
+
+`software testing`, `QA leadership`, `automation testing`, `Playwright`, `Cypress`, `AI testing`, `LLM security`, `ethical hacking`, `bug bounty`, `NASA`, `OpenAI`, `AppSec`, `CI/CD`, `QAOps`, `Pytest`, `JMeter`, `K6`.
 
 ---
 
@@ -172,5 +172,5 @@ I am a **Senior Software Engineer QA** at **Markopolo.ai**, dedicated to ensurin
 ---
 
 <p align="center">
-  <em>Last Updated: January 04, 2026</em>
+  <em>Last Transcoded: January 04, 2026</em>
 </p>
