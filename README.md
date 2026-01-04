@@ -146,6 +146,7 @@ In the evolving landscape of software testing, I focus on integrating cutting-ed
 
 | Project Name | Description | Tech Stack | Key Impact | Repository |
 |--------------|-------------|------------|-----------|------------|
+| **KoyJabo.com – Smart Transport Guide** | Comprehensive web platform for navigating Bangladesh's transport system with bus routes, fares, and regional guidance. | JavaScript, TypeScript, PWA | 1k+ users; Features **offline support**; Simplifies transit across Dhaka and all of Bangladesh. | [Live Site](https://fagun.sqatesting.com/intercity) |
 | **Fagun XSS Recon** | High-signal URL targeting toolkit for automated XSS reconnaissance. | Python, Bash, Nuclei | Streamlined bug bounty workflows for security researchers. | [GitHub](https://github.com/fagun18/fagun-xss-recon) |
 | **Bug Matrix 🐞** | Comprehensive browser extension for QA testers with integrated security payloads and OSINT tools. | JavaScript, Chrome Extensions | 500+ users; One-stop solution for manual and security testing. | [Chrome Store](https://chromewebstore.google.com/detail/bug-matrix-%F0%9F%90%9E-%E2%80%93-sqa-testi/peelhgmemfhajlldpkamljidapnfnaob) |
 | **Security Automation Tool** | CLI-based scanner for rapid security audits. | Python, SQLMap, Nuclei | 2k+ downloads; Aligns with latest cybersecurity trends. | [GitHub](https://github.com/fagun18/security-automation-tool) |
