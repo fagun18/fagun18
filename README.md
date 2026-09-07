@@ -17,6 +17,7 @@
     <img src="https://komarev.com/ghpvc/?username=fagun18&style=flat-square&color=blueviolet&label=PROFILE+VISITS" />
     <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-green?style=flat-square&logo=hireahelper&logoColor=white" />
     <img src="https://img.shields.io/badge/Current%20Role-Senior%20SQA%20Engineer%20%40%20Sofof%20Tech-blue?style=flat-square" />
+    <a href="https://gitfut.com/fagun18"><img src="https://img.shields.io/badge/GitFut-86%20TOTY%20ST-3B7AFF?style=flat-square&logo=github&logoColor=white" /></a>
   </p>
 </div>
 
@@ -223,6 +224,48 @@ Senior SQA / SDET Engineer with **6+ years of experience** across Manual, Automa
 
 ---
 
+## ⚽ GitFut Scout Report & Player Card
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle" width="320">
+        <a href="https://gitfut.com/fagun18" target="_blank">
+          <img src="https://gitfut.com/fagun18.png" alt="Mejbaur Bahar Fagun - 86 TOTY GitFut Card" width="280" />
+        </a>
+      </td>
+      <td valign="middle">
+        <h3>🏆 86 TOTY · Striker (Target Man)</h3>
+        <p><i>"ELITE PROSPECT — a prolific shipper whose output lands."</i></p>
+        <p>
+          <img src="https://img.shields.io/badge/Overall-86%20TOTY-3B7AFF?style=flat-square" />
+          <img src="https://img.shields.io/badge/Position-ST%20(Target%20Man)-39D353?style=flat-square" />
+          <img src="https://img.shields.io/badge/Tech-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Skill%20Moves-5%20%E2%AD%90-gold?style=flat-square" />
+          <img src="https://img.shields.io/badge/Weak%20Foot-4%20%E2%AD%90-gold?style=flat-square" />
+        </p>
+        <ul>
+          <li><b>⚡ PAC 71:</b> Pace & commit cadence across the last year</li>
+          <li><b>🎯 SHO 77:</b> Shooting & stars earned across repositories</li>
+          <li><b>🔄 PAS 68:</b> Passing, pull requests & followers</li>
+          <li><b>🪄 DRI 76:</b> Dribbling & language diversity (10 languages)</li>
+          <li><b>🛡️ DEF 52:</b> Defending, code reviews & issue management</li>
+          <li><b>💪 PHY 91:</b> Physicality & lifetime contributions</li>
+        </ul>
+        <p>
+          <b>🌟 PlayStyles:</b> <code>Polyglot+</code> (10 languages) &bull; <code>Prolific</code> (111 public repos) &bull; <code>Veteran</code> (7 years on GitHub)<br>
+          <b>📈 Work Rate:</b> High / Med &nbsp;|&nbsp; <b>🎮 Style:</b> Controlled
+        </p>
+        <p>
+          👉 <a href="https://gitfut.com/fagun18"><b>Explore Live Card & Scout Stats on GitFut ↗</b></a>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -242,7 +285,7 @@ Senior SQA / SDET Engineer with **6+ years of experience** across Manual, Automa
 
 ## 🔑 SEO Mastery for Recruiters
 
-`Senior SQA Engineer`, `Senior SDET`, `LLM Testing`, `TTS Model Testing`, `AI Testing`, `Product Manager`, `QA Automation Lead`, `LLM Security Specialist`, `Playwright Automation`, `Selenium Expert`, `Cypress`, `Appium`, `Maestro`, `Certified Ethical Hacker`, `Burp Suite`, `OWASP ZAP`, `NASA Bug Bounty`, `Sofof Tech`, `Saudi Arabia`, `Bangladesh`, `Remote QA Lead`, `QA Recruitment 2026`
+`Senior SQA Engineer`, `Senior SDET`, `LLM Testing`, `TTS Model Testing`, `AI Testing`, `Product Manager`, `QA Automation Lead`, `LLM Security Specialist`, `Playwright Automation`, `Selenium Expert`, `Cypress`, `Appium`, `Maestro`, `Certified Ethical Hacker`, `Burp Suite`, `OWASP ZAP`, `NASA Bug Bounty`, `Sofof Tech`, `Saudi Arabia`, `Bangladesh`, `GitFut 86 TOTY`, `Remote QA Lead`, `QA Recruitment 2026`
 
 ---
 
