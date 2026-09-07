@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mejbaur%20Bahar%20Fagun&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20QA%20|%20AI%20&%20Security%20Strategist&descSize=20&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Mejbaur%20Bahar%20Fagun&fontSize=50&animation=fadeIn&fontAlignY=35&desc=Senior%20SQA%20Engineer%20%7C%20AI%20%26%20Security%20Testing%20Specialist&descSize=20&descAlignY=55" />
 
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=Leading+QA+at+Markopolo.ai;AI+Security+%26+LLM+Pentesting;NASA+%26+OpenAI+Security+Researcher;Architecting+Enterprise+Automation;Global+Top+1%25+on+TryHackMe" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=Senior+SQA+Engineer+%40+Sofof+Tech;LLM+%26+TTS+Model+Testing+Specialist;Product+Manager+%7C+AI+Testing+Lead;NASA+%26+OpenAI+Security+Researcher;Global+Top+1%25+on+TryHackMe+%7C+%23770+Worldwide" alt="Typing SVG" />
   </p>
 
   <p align="center">
@@ -15,7 +15,8 @@
 
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=fagun18&style=flat-square&color=blueviolet&label=PROFILE+VISITS" />
-    <img src="https://img.shields.io/badge/Status-Actively%20Looking%20for%20Opportunities-green?style=flat-square&logo=hireahelper&logoColor=white" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-green?style=flat-square&logo=hireahelper&logoColor=white" />
+    <img src="https://img.shields.io/badge/Current%20Role-Senior%20SQA%20Engineer%20%40%20Sofof%20Tech-blue?style=flat-square" />
   </p>
 </div>
 
@@ -23,7 +24,7 @@
 
 ## 📖 Professional Summary
 
-Senior Software QA Engineer with **5+ years of experience** across Manual, Automation, API, Performance, Security, and **AI/ML testing**. Expert in **Playwright, Selenium, and Cypress** with a focus on testing **TTS, NLP, and AI models**. Proven record of reducing defect leakage by **20%** and cutting regression time by **35%** through high-level team leadership and architectural excellence.
+Senior SQA / SDET Engineer with **6+ years of experience** across Manual, Automation, API, Performance, Security, and **AI/ML testing**. Currently at **Sofof Tech (Jeddah, Saudi Arabia)** leading LLM & TTS model testing and serving as **Product Manager** for AI testing initiatives. Expert in architecting scalable automation frameworks with **Playwright, Python, Selenium, and Cypress**. Proven track record of reducing defect leakage by **20%** and accelerating regression cycles by **81%** through enterprise CI/CD and AI-driven quality engineering.
 
 ---
 
@@ -34,25 +35,25 @@ Senior Software QA Engineer with **5+ years of experience** across Manual, Autom
     <tr>
       <td valign="top" width="50%">
         <h3>🤖 AI & Automation</h3>
-        <p><b>Tools:</b> Playwright, Selenium, Cypress, Appium, TestNG, PyTest, JUnit</p>
-        <p><b>AI Testing:</b> Model Validation, Bias Mitigation, Prompt Injection, LLM Security, Hugging Face, Promptfoo, LangTest</p>
+        <p><b>Tools:</b> Playwright, Selenium, Cypress, Appium, Maestro, TestNG, PyTest, JUnit</p>
+        <p><b>AI Testing:</b> LLM Validation, TTS Model Testing, Model Accuracy, Bias Detection, Prompt Injection, Adversarial Testing, Autonomous Testing Systems, Hugging Face, Promptfoo, LangTest</p>
       </td>
       <td valign="top" width="50%">
         <h3>🛡️ Security & Performance</h3>
-        <p><b>Security:</b> Burp Suite, OWASP ZAP, Nuclei, SQLMap, Nikto, Wfuzz</p>
-        <p><b>Performance:</b> JMeter, K6, Locust</p>
+        <p><b>Security:</b> Burp Suite, OWASP ZAP, OWASP Top 10, Nuclei, SQLMap, Vulnerability Assessment, Certified Ethical Hacker (CEH), Certified AppSec Practitioner (CAP)</p>
+        <p><b>Performance:</b> JMeter, k6, Locust, Lighthouse, API Performance Monitoring, Benchmarking</p>
       </td>
     </tr>
     <tr>
       <td valign="top" width="50%">
-        <h3>💻 Programming & DB</h3>
-        <p><b>Languages:</b> Python, JavaScript, TypeScript, Bash, Java</p>
-        <p><b>Databases:</b> MySQL, Postman, Swagger</p>
+        <h3>💻 Programming & API Testing</h3>
+        <p><b>Languages:</b> Python, JavaScript, TypeScript, Bash, YAML</p>
+        <p><b>API Testing:</b> Postman, Swagger/OpenAPI, REST API Validation, Schema Validation, Contract Testing, Auth Testing</p>
       </td>
       <td valign="top" width="50%">
-        <h3>⚙️ Infrastructure & Tools</h3>
-        <p><b>DevOps:</b> Git, Docker, CI/CD (GitHub Actions, Jenkins)</p>
-        <p><b>Ops:</b> Jira, Trello, YouTrack, OpenProject, Agile/Scrum</p>
+        <h3>⚙️ Infrastructure & Methodologies</h3>
+        <p><b>DevOps:</b> Git, Docker, CI/CD (GitHub Actions, Jenkins), Allure Reports, GitHub Pages, Linux</p>
+        <p><b>Methodologies:</b> Agile, Scrum, BDD, TDD, Risk-Based Testing, Shift-Left Testing, ISTQB Standards</p>
       </td>
     </tr>
   </table>
@@ -60,47 +61,66 @@ Senior Software QA Engineer with **5+ years of experience** across Manual, Autom
 
 ### 🚀 QA Automation & Engineering
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,java,html,css,selenium,cypress,postman,jenkins,docker,git,github,kubernetes,linux,aws&perline=10&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,bash,html,css,selenium,cypress,postman,jenkins,docker,git,github,linux,aws&perline=10&theme=dark" />
 </p>
 
 <div align="center">
   <code><img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /></code>
   <code><img src="https://img.shields.io/badge/Appium-662D91?style=for-the-badge&logo=appium&logoColor=white" /></code>
+  <code><img src="https://img.shields.io/badge/Maestro-FF6B6B?style=for-the-badge&logo=mobile&logoColor=white" /></code>
+  <code><img src="https://img.shields.io/badge/LLM%20Testing-FF9900?style=for-the-badge&logo=openai&logoColor=white" /></code>
 </div>
-
-### 🛡️ Cybersecurity & AI Testing
 
 ---
 
 ## 👨‍💻 Professional Odyssey
 
 <details open>
-<summary><b>🚀 Markopolo.ai | Senior Software Engineer QA (Current)</b></summary>
+<summary><b>🚀 Sofof Tech | Senior SQA Engineer & Product Manager (Current)</b></summary>
 <br>
-<i>Nov 2025 – Present | Dhaka, Bangladesh</i>
+<i>Sep 2026 – Present | Jeddah, Saudi Arabia</i>
 
-- **AI Leadership**: Leading QA for AI-driven TTS models and multi-channel campaign agents.
-- **Architecture**: Orchestrating scalable automation frameworks and specialized AI/ML evaluation protocols.
-- **Model Validation**: Validating accuracy, robustness, prosody, and resistance to complex prompt injections.
-- **Mentorship**: Defining KPIs and implementing company-wide QA best-practices.
+- **LLM & TTS Testing**: Led functional and performance testing of LLM and TTS models, evaluating output accuracy, latency, and reliability across diverse test scenarios.
+- **Product Management**: Assigned as Product Manager for the LLM/TTS project, overseeing product roadmap, cross-functional coordination, and delivery milestones.
+- **Test Strategy**: Designed and implemented comprehensive test strategies covering functional, regression, performance, security, and usability testing.
+- **Automation Architecture**: Architected and maintained scalable automation frameworks for web, mobile, and API testing.
+- **AI-Driven Automation**: Implemented AI-driven test automation tools for intelligent test case generation, self-healing scripts, and predictive defect analysis.
+- **Risk-Based Testing**: Established risk-based testing approaches to prioritize critical features and ensure product reliability.
+- **Leadership & Mentorship**: Mentored SQA engineers and fostered a culture of continuous improvement and accountability.
+- **Quality Insights**: Delivered clear, actionable test reports to stakeholders with insights on quality trends.
 
 </details>
 
 <details open>
-<summary><b>🏢 Devxhub | Career Growth</b></summary>
+<summary><b>🏢 Markopolo.ai | Senior Software Engineer QA</b></summary>
+<br>
+<i>Oct 2025 – Aug 2026 | Dhaka, Bangladesh</i>
+
+- **AI Leadership**: Led QA for AI-driven TTS and NLP models; built 200+ automated evaluation tests covering model accuracy, prosody, and prompt injection resistance.
+- **Architecture**: Architected Playwright + Python test framework integrated with GitHub Actions CI/CD; reduced regression cycle from 4 hours to 45 minutes (**81% faster**).
+- **Team Management**: Managed 8-engineer QA team; defined OKRs, test coverage targets, and quality gates achieving **20% reduction** in production defect leakage.
+- **AI/ML Protocols**: Designed AI/ML testing protocols covering model output validation, bias detection, adversarial input testing, and LLM security evaluation.
+
+</details>
+
+<details open>
+<summary><b>🏢 Developer experience Hub | Career Growth</b></summary>
 <br>
 
-**Software Engineer in Test (L2)** | *Aug 2023 – Oct 2025*
-- Specialized in security assurance, performance tuning, and agile QA.
-- Validated AI model robustness against adversarial inputs.
-- Reduced regression time by 35% through CI/CD integration.
+**Software Engineer in Test** | *Aug 2023 – Oct 2025 | Rajshahi, Bangladesh*
+- Built automated test suites covering functional, API, performance, and security testing across 3 microservices using Playwright and Python.
+- Integrated OWASP ZAP and Burp Suite into CI/CD pipeline; identified 15+ critical vulnerabilities before production release.
+- Grew automated test coverage from 60% to 85%, eliminating 40% of manual regression effort per sprint.
+- Validated AI-driven features through model accuracy testing, bias analysis, and adversarial input evaluation.
 
-**Jr. Software QA Engineer** | *Aug 2022 – Aug 2023*
-- Directed E2E quality for multiple successful product launches.
-- Conducted exhaustive root-cause analysis for high-priority defects.
+**Jr. Software QA Engineer** | *Aug 2022 – Aug 2023 | Rajshahi, Bangladesh*
+- Developed and maintained 300+ test cases covering functional, regression, integration, and cross-browser testing.
+- Reduced bug escape rate by 15% by introducing exploratory testing sessions and structured defect triage processes.
+- Collaborated with dev team to deliver zero critical defects across 3 consecutive sprint releases.
 
-**Software QA Engineer (Intern)** | *Mar 2022 – Jul 2022*
-- Identified critical bugs and designed comprehensive test suites.
+**Software QA Engineer (Internship)** | *Mar 2022 – Jul 2022 | Rajshahi, Bangladesh*
+- Executed smoke, regression, and functional test suites; logged and tracked 80+ defects with detailed reproduction steps in Jira.
+- Collaborated with 5-person dev team in Agile/Scrum environment, contributing QA sign-off for 3 successful sprint releases.
 
 </details>
 
@@ -109,10 +129,12 @@ Senior Software QA Engineer with **5+ years of experience** across Manual, Autom
 <br>
 
 **GAOTek Inc. | Software Tester** | *Dec 2021 – Feb 2022 | NY, USA (Remote)*
-- Managed defect lifecycles and enhanced UX via collaborative planning.
+- Executed structured test plans for IoT hardware control software; managed 50+ defect lifecycle entries across Jira.
+- Collaborated with globally distributed dev team to improve software reliability and achieve consistent release quality.
 
-**Orion Informatics Ltd | Software Tester (Mobile & Fintech)** | *May 2021 – Jul 2021*
-- Secured mobile payment gateways and functional reliability of apps.
+**Orion Informatics Ltd | Software Tester (Mobile & Fintech)** | *May 2021 – Jul 2021 | Dhaka, Bangladesh*
+- Tested Android and iOS payment gateway flows including authentication, transaction processing, refund, and error-handling scenarios.
+- Validated security of mobile payment flows covering encryption checks, session management, and PCI DSS-relevant test scenarios.
 
 </details>
 
@@ -124,40 +146,56 @@ Senior Software QA Engineer with **5+ years of experience** across Manual, Autom
   <img src="https://github-profile-trophy.vercel.app/?username=fagun18&theme=radical&no-frame=true&column=4" />
 </div>
 
+- 🥇 **2nd Place – SQA Hackathon 2026** (Tech X) — Recognized among Top 10 for outstanding performance in software testing, bug analysis, and QA methodology.
 - 🌍 **TryHackMe**: Ranked **#770 Worldwide** (#12 in Bangladesh) as of July 2025.
 - 🥉 **1st Runner-up**: Programming Contest at CSE Family Fest 2018 (Bangladesh University).
-- 🛡️ **NASA**: Reported Improper X-Forwarded-Host Header & Sensitive Data Exposure.
+- 🛡️ **NASA**: Reported Improper X-Forwarded-Host Header & Sensitive Internal Data Publicly Accessible.
 - 🤖 **OpenAI (ChatGPT)**: Discovered Business Logic flaw (Message Limit Bypass).
 - 🇦🇺 **nsw.gov.au**: Identified 403 Bypass via request method manipulation.
 
 ---
 
-## 🚀 Featured Projects & Tools
+## 🚀 Featured Client & Open-Source Projects
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🚌 KoyJabo.com</h3>
-        <p align="center">Smart Transport Guide for Bangladesh with Offline Support (PWA).</p>
-        <p align="center"><a href="https://fagun.sqatesting.com/intercity"><b>Visit Site 🌐</b></a></p>
+        <h3 align="center">🤖 Mehad Automation Platform</h3>
+        <p align="center">Spec-driven AI-powered QA platform generating 2,000+ automated tests across 69+ pages. Playwright, Python & CI/CD covering functional, security, performance, and accessibility.</p>
       </td>
       <td width="50%">
-        <h3 align="center">🔍 Fagun XSS Recon</h3>
-        <p align="center">Automated high-signal URL targeting toolkit for XSS discovery.</p>
-        <p align="center"><a href="https://github.com/fagun18/fagun-xss-recon"><b>View Code 🔬</b></a></p>
+        <h3 align="center">📱 MyCoiffeur Mobile Framework</h3>
+        <p align="center">Mobile automation framework for Android & iOS using Maestro, Appium & Python. 191 automated tests for booking, payments, subscriptions, and wallet management.</p>
       </td>
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">🐞 Bugs Matrix Hub</h3>
-        <p align="center">All-in-one browser extension for QA & Security Pros.</p>
-        <p align="center"><a href="https://chromewebstore.google.com/detail/bug-matrix-%F0%9F%90%9E-%E2%80%93-sqa-testi/peelhgmemfhajlldpkamljidapnfnaob"><b>Install Tool 🛠️</b></a></p>
+        <h3 align="center">🌐 Qatarat Automation Framework With AI</h3>
+        <p align="center">End-to-end mobile testing solution with 241 automated checks across Android & iOS. Automated donation, wallet, gift card, payment, authentication, and localization workflows.</p>
       </td>
       <td width="50%">
-        <h3 align="center">🧪 Playwright Framework</h3>
-        <p align="center">ISTQB-standard E2E framework built with TypeScript & Playwright.</p>
-        <p align="center"><a href="https://github.com/fagun18/test-automation-framework"><b>Explore Core 🧬</b></a></p>
+        <h3 align="center">💳 Qatarat Website Testing</h3>
+        <p align="center">Playwright-based E2E automation for WhatsApp OTP authentication, MyFatoorah payment gateway, checkout, and 3DS verification scenarios.</p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🔍 Fagun XSS Recon</h3>
+        <p align="center">Guided recon and filtering toolkit that prepares high-signal URL targets for XSS vulnerability testing.</p>
+        <p align="center"><a href="https://github.com/fagun18/fagun-xss-recon"><b>View Code 🔬</b></a></p>
+      </td>
+      <td width="50%">
+        <h3 align="center">🐞 Bugs Matrix SQA Testing Tools Hub</h3>
+        <p align="center">All-in-one browser extension designed to streamline software testing workflows for QA & security specialists.</p>
+        <p align="center"><a href="https://chromewebstore.google.com/detail/bug-matrix-%F0%9F%90%9E-%E2%80%93-sqa-testi/peelhgmemfhajlldpkamljidapnfnaob"><b>Install Tool 🛠️</b></a></p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <h3 align="center">🧪 Fagun Playwright Test Automation Framework</h3>
+        <p align="center">ISTQB-standard E2E test automation framework built with Playwright and TypeScript for scalable, maintainable regression suites.</p>
+        <p align="center"><a href="https://github.com/fagun18/test-automation-framework"><b>Explore Framework 🧬</b></a></p>
       </td>
     </tr>
   </table>
@@ -167,19 +205,21 @@ Senior Software QA Engineer with **5+ years of experience** across Manual, Autom
 
 ## 🎓 Education & Certifications
 
-- **BSc in Computer Science & Engineering** | Bangladesh University | CGPA 3.74/4.00
-- 🛡️ **Certified Ethical Hacker (CEH v12)**
+- 🎓 **BSc in Computer Science & Engineering (Computer Programming)** | Bangladesh University | CGPA: 3.74 / 4.00
+- 🛡️ **Certified Ethical Hacker (CEH)**
 - 🥋 **Certified AppSec Practitioner (CAP)**
-- 📱 **Advanced Appium & Visual Testing**
-- 📊 **LambdaTest Automation Professional**
-- ⚙️ **Codeless Automation (Selenium IDE)**
+- 📱 **Advanced Appium & Automated Visual Testing with Appium**
+- 📊 **LambdaTest Test Automation Professional Certificate**
+- ⚙️ **Codeless Test Automation with Selenium IDE**
 
 ---
 
-## 👥 Leadership & Community
+## 👥 Leadership & Impact
 
-- **Team Leadership**: Led a **8-member SQA team** and an **Automation Team**, improving coverage by 20% and CI speed by 35%.
-- **Volunteer**: Campus Ambassador @ **Team Matrix - Elite Hacker** (Jan 2022 – Feb 2024). Empowered students with free security/QA resources.
+- **Product Manager & Senior SQA Engineer (Sofof Tech)**: Leading LLM/TTS test engineering and overseeing product roadmap, sprint goals, and delivery milestones.
+- **QA Team Leadership (Markopolo.ai)**: Managed an 8-member QA team; improved coverage and reduced defect leakage by 20% through efficient test strategy and execution.
+- **Automation Framework Leadership**: Drove automation engineering that cut regression test cycle time by 81% (4h to 45m).
+- **Campus Ambassador (Team Matrix - Elite Hacker)**: Empowered students by providing free educational resources and mentorship in ethical hacking and software quality (Jan 2022 – Feb 2024).
 
 ---
 
@@ -202,14 +242,14 @@ Senior Software QA Engineer with **5+ years of experience** across Manual, Autom
 
 ## 🔑 SEO Mastery for Recruiters
 
-`Senior Software QA Engineer`, `AI Testing`, `LLM Security Specialist`, `AppSec Researcher`, `Playwright Automation`, `Selenium Expert`, `Security Auditor`, `Penetration Tester`, `NASA Researcher`, `Bangladesh`, `Dhaka`, `Remote QA Lead`, `QA Recruitment 2026`.
+`Senior SQA Engineer`, `Senior SDET`, `LLM Testing`, `TTS Model Testing`, `AI Testing`, `Product Manager`, `QA Automation Lead`, `LLM Security Specialist`, `Playwright Automation`, `Selenium Expert`, `Cypress`, `Appium`, `Maestro`, `Certified Ethical Hacker`, `Burp Suite`, `OWASP ZAP`, `NASA Bug Bounty`, `Sofof Tech`, `Saudi Arabia`, `Bangladesh`, `Remote QA Lead`, `QA Recruitment 2026`
 
 ---
 
 <div align="center">
-  <p><b>Interested in hiring a top-tier QA leader?</b></p>
+  <p><b>Interested in collaborating or discussing QA & AI leadership?</b></p>
   <a href="mailto:fagun115946@gmail.com">
-    <img src="https://img.shields.io/badge/HIRE%20ME-DIRECT%20EMAIL-blue?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-DIRECT%20EMAIL-blue?style=for-the-badge&logo=gmail" />
   </a>
   <br><br>
   <a href="https://buymeacoffee.com/fagun18"><img src="https://img.shields.io/badge/Support%20My%20Work-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" /></a>
